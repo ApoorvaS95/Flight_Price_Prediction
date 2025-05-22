@@ -1,0 +1,2672 @@
+,Airline,Source,Destination,Total_Stops,Route_Popularity,Journey_Day,Journey_Month,Journey_Weekday,Is_Weekend,Dep_Part_of_Day,Arrival_Part_of_Day,Duration_Minutes
+0,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,655
+1,IndiGo,Kolkata,Banglore,1,13,12,5,6,1,Morning,Morning,240
+2,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Evening,Evening,1425
+3,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,780
+4,Air Asia,Banglore,Delhi,0,389,24,6,0,0,Night,Night,170
+5,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Evening,Afternoon,1100
+6,Air India,Banglore,Delhi,1,2,12,3,1,0,Morning,Night,905
+7,IndiGo,Kolkata,Banglore,1,27,1,5,2,0,Afternoon,Evening,315
+8,IndiGo,Kolkata,Banglore,0,172,15,3,4,0,Morning,Afternoon,165
+9,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Night,365
+10,Jet Airways,Delhi,Cochin,2,6,21,3,3,0,Afternoon,Evening,1735
+11,IndiGo,Delhi,Cochin,1,85,15,6,5,1,Morning,Afternoon,560
+12,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Evening,615
+13,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Morning,Morning,280
+14,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Evening,Afternoon,1040
+15,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Night,Morning,650
+16,Multiple carriers,Delhi,Cochin,1,85,6,6,3,0,Afternoon,Night,555
+17,Vistara,Kolkata,Banglore,1,124,24,3,6,1,Morning,Night,735
+18,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Evening,Night,550
+19,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Morning,560
+20,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,890
+21,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Morning,845
+22,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,695
+23,Jet Airways,Delhi,Cochin,2,74,9,5,3,0,Morning,Evening,810
+24,Air India,Banglore,Delhi,0,389,6,4,5,1,Night,Night,170
+25,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Night,745
+26,IndiGo,Kolkata,Banglore,0,172,15,5,2,0,Afternoon,Evening,150
+27,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Evening,Evening,1530
+28,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,1165
+29,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Night,420
+30,Air Asia,Kolkata,Banglore,0,172,3,3,6,1,Night,Night,150
+31,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Afternoon,Night,700
+32,Jet Airways,Delhi,Cochin,2,9,15,6,5,1,Morning,Afternoon,425
+33,Jet Airways,Banglore,Delhi,0,389,12,6,2,0,Evening,Night,180
+34,Jet Airways,Mumbai,Hyderabad,0,164,15,3,4,0,Morning,Morning,85
+35,SpiceJet,Banglore,Delhi,0,389,15,6,5,1,Morning,Morning,160
+36,Jet Airways,Mumbai,Hyderabad,0,164,18,3,0,0,Morning,Morning,85
+37,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Afternoon,Night,365
+38,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Afternoon,1025
+39,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,640
+40,SpiceJet,Kolkata,Banglore,0,172,12,5,6,1,Evening,Evening,150
+41,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Afternoon,Night,750
+42,SpiceJet,Mumbai,Hyderabad,0,164,9,6,6,1,Night,Night,90
+43,Air India,Delhi,Cochin,1,624,15,6,5,1,Morning,Morning,1420
+44,IndiGo,Kolkata,Banglore,1,4,1,5,2,0,Night,Night,315
+45,SpiceJet,Chennai,Kolkata,0,75,24,3,6,1,Evening,Evening,140
+46,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Evening,Evening,1415
+47,Air India,Mumbai,Hyderabad,0,164,3,5,4,0,Afternoon,Afternoon,90
+48,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Night,1660
+49,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,810
+50,Air India,Kolkata,Banglore,2,10,12,5,6,1,Morning,Afternoon,1700
+51,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Evening,345
+52,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Afternoon,1585
+53,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Morning,Morning,340
+54,SpiceJet,Chennai,Kolkata,0,75,18,6,1,0,Morning,Afternoon,135
+55,Jet Airways,Banglore,Delhi,0,389,15,4,0,0,Afternoon,Evening,175
+56,IndiGo,Delhi,Cochin,1,55,18,5,5,1,Night,Morning,345
+57,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,450
+58,IndiGo,Delhi,Cochin,1,85,9,6,6,1,Morning,Afternoon,320
+59,Vistara,Kolkata,Banglore,1,124,6,5,0,0,Evening,Evening,1550
+60,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,795
+61,Air India,Delhi,Cochin,2,17,9,3,5,1,Morning,Morning,1580
+62,IndiGo,Delhi,Cochin,1,55,3,4,2,0,Night,Morning,345
+63,Air Asia,Delhi,Cochin,1,55,27,6,3,0,Afternoon,Night,340
+64,Vistara,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,160
+65,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Afternoon,Afternoon,170
+66,IndiGo,Delhi,Cochin,1,44,6,6,3,0,Night,Morning,325
+67,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Night,Afternoon,525
+68,IndiGo,Banglore,Delhi,0,389,12,6,2,0,Night,Night,180
+69,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,440
+70,IndiGo,Mumbai,Hyderabad,0,164,18,6,1,0,Afternoon,Afternoon,90
+71,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Night,Evening,1270
+72,Air India,Kolkata,Banglore,3,2,1,4,0,0,Morning,Night,960
+73,Air Asia,Delhi,Cochin,1,55,15,5,2,0,Morning,Afternoon,470
+74,IndiGo,Mumbai,Hyderabad,0,164,18,5,5,1,Morning,Morning,90
+75,Jet Airways,Banglore,Delhi,0,389,21,5,1,0,Morning,Morning,180
+76,SpiceJet,Banglore,Delhi,0,389,21,6,4,0,Morning,Afternoon,170
+77,Air India,Kolkata,Banglore,2,10,1,5,2,0,Morning,Morning,1165
+78,Vistara,Delhi,Cochin,0,49,3,3,6,1,Afternoon,Evening,175
+79,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Evening,Morning,845
+80,IndiGo,Banglore,Delhi,0,389,24,6,0,0,Night,Night,170
+81,Vistara,Kolkata,Banglore,1,124,9,6,6,1,Evening,Morning,965
+82,GoAir,Delhi,Cochin,1,624,18,5,5,1,Morning,Afternoon,355
+83,Air Asia,Kolkata,Banglore,0,172,21,4,6,1,Evening,Night,150
+84,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Night,615
+85,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,830
+86,SpiceJet,Chennai,Kolkata,0,75,21,3,3,0,Morning,Morning,135
+87,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,715
+88,SpiceJet,Kolkata,Banglore,0,172,18,4,3,0,Evening,Evening,150
+89,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Morning,800
+90,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Morning,1090
+91,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Evening,1690
+92,IndiGo,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Night,300
+93,Air India,Delhi,Cochin,1,624,1,6,5,1,Evening,Evening,1395
+94,Air India,Mumbai,Hyderabad,0,164,27,6,3,0,Evening,Evening,75
+95,Air India,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,80
+96,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Night,805
+97,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Evening,375
+98,SpiceJet,Mumbai,Hyderabad,0,164,24,3,6,1,Morning,Morning,80
+99,Air India,Kolkata,Banglore,2,3,9,5,3,0,Morning,Evening,610
+100,IndiGo,Delhi,Cochin,1,6,6,3,2,0,Morning,Morning,275
+101,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,660
+102,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,470
+103,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,740
+104,SpiceJet,Kolkata,Banglore,0,172,15,3,4,0,Evening,Evening,150
+105,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Evening,Morning,910
+106,IndiGo,Mumbai,Hyderabad,0,164,9,5,3,0,Night,Night,90
+107,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Night,1140
+108,IndiGo,Delhi,Cochin,2,17,9,3,5,1,Morning,Night,825
+109,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,740
+110,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,590
+111,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,845
+112,SpiceJet,Kolkata,Banglore,0,172,9,6,6,1,Morning,Morning,155
+113,IndiGo,Kolkata,Banglore,1,13,6,6,3,0,Evening,Night,280
+114,SpiceJet,Kolkata,Banglore,1,4,9,5,3,0,Morning,Evening,435
+115,Air India,Delhi,Cochin,2,15,15,5,2,0,Evening,Evening,1380
+116,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Morning,Evening,625
+117,IndiGo,Delhi,Cochin,1,624,15,4,0,0,Evening,Night,305
+118,Jet Airways,Delhi,Cochin,2,9,6,3,2,0,Morning,Night,1365
+119,Multiple carriers,Delhi,Cochin,1,624,9,4,1,0,Morning,Evening,520
+120,Air India,Kolkata,Banglore,2,10,18,5,5,1,Afternoon,Evening,1660
+121,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Morning,690
+122,IndiGo,Kolkata,Banglore,0,172,15,5,2,0,Morning,Afternoon,155
+123,Jet Airways,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,165
+124,SpiceJet,Kolkata,Banglore,1,13,9,6,6,1,Afternoon,Evening,315
+125,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Evening,Afternoon,940
+126,IndiGo,Kolkata,Banglore,0,172,9,5,3,0,Afternoon,Afternoon,150
+127,Vistara,Banglore,Delhi,0,389,1,4,0,0,Evening,Evening,155
+128,IndiGo,Delhi,Cochin,1,85,18,5,5,1,Morning,Afternoon,560
+129,IndiGo,Banglore,Delhi,0,389,3,5,4,0,Afternoon,Afternoon,170
+130,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,520
+131,IndiGo,Delhi,Cochin,1,85,27,6,3,0,Morning,Afternoon,320
+132,IndiGo,Delhi,Cochin,1,6,6,5,0,0,Night,Night,345
+133,IndiGo,Kolkata,Banglore,0,172,24,5,4,0,Afternoon,Evening,150
+134,Air India,Banglore,Delhi,0,389,1,4,0,0,Morning,Afternoon,165
+135,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Afternoon,475
+136,Air India,Kolkata,Banglore,2,10,1,4,0,0,Morning,Morning,1165
+137,SpiceJet,Banglore,Delhi,0,389,18,6,1,0,Morning,Afternoon,170
+138,Vistara,Banglore,Delhi,0,389,21,4,6,1,Evening,Night,165
+139,Air India,Banglore,Delhi,1,3,15,3,4,0,Night,Morning,770
+140,IndiGo,Banglore,Delhi,0,389,1,3,4,0,Morning,Morning,165
+141,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Night,Night,1525
+142,Jet Airways,Delhi,Cochin,1,624,15,5,2,0,Night,Afternoon,620
+143,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Night,510
+144,IndiGo,Banglore,Delhi,0,389,9,3,5,1,Morning,Morning,180
+145,Air India,Delhi,Cochin,1,44,27,5,0,0,Evening,Morning,765
+146,IndiGo,Banglore,Delhi,0,389,18,5,5,1,Night,Night,180
+147,Air India,Kolkata,Banglore,0,172,12,5,6,1,Afternoon,Afternoon,150
+148,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Afternoon,Night,730
+149,Air India,Delhi,Cochin,1,55,15,5,2,0,Morning,Morning,1350
+150,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Afternoon,475
+151,Multiple carriers,Delhi,Cochin,1,85,3,3,6,1,Afternoon,Night,465
+152,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Night,420
+153,Jet Airways,Banglore,Delhi,0,389,24,5,4,0,Morning,Afternoon,175
+154,SpiceJet,Kolkata,Banglore,0,172,1,6,5,1,Evening,Evening,150
+155,SpiceJet,Banglore,Delhi,0,389,21,6,4,0,Night,Night,175
+156,IndiGo,Kolkata,Banglore,0,172,15,3,4,0,Evening,Evening,160
+157,IndiGo,Banglore,Delhi,0,389,15,6,5,1,Evening,Night,170
+158,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Afternoon,1315
+159,Jet Airways,Mumbai,Hyderabad,0,164,12,5,6,1,Evening,Night,90
+160,Jet Airways,Banglore,Delhi,0,389,18,5,5,1,Evening,Night,180
+161,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Afternoon,390
+162,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Afternoon,Evening,180
+163,GoAir,Kolkata,Banglore,0,172,18,6,1,0,Afternoon,Evening,155
+164,SpiceJet,Banglore,Delhi,0,389,6,5,0,0,Morning,Afternoon,170
+165,Air India,Banglore,Delhi,0,389,27,5,0,0,Morning,Morning,165
+166,Air India,Delhi,Cochin,2,17,27,5,0,0,Morning,Morning,1580
+167,SpiceJet,Kolkata,Banglore,0,172,18,3,0,0,Night,Night,140
+168,SpiceJet,Kolkata,Banglore,1,4,1,5,2,0,Morning,Evening,520
+169,IndiGo,Chennai,Kolkata,0,75,9,3,5,1,Afternoon,Evening,145
+170,Air India,Delhi,Cochin,2,15,1,6,5,1,Evening,Evening,1380
+171,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Evening,560
+172,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Night,Night,175
+173,IndiGo,Banglore,Delhi,0,389,6,4,5,1,Night,Night,165
+174,Air India,Banglore,Delhi,2,2,18,3,0,0,Morning,Morning,1545
+175,SpiceJet,Kolkata,Banglore,0,172,3,5,4,0,Evening,Evening,150
+176,SpiceJet,Kolkata,Banglore,1,13,6,5,0,0,Afternoon,Evening,315
+177,Air India,Kolkata,Banglore,2,11,24,3,6,1,Morning,Evening,2000
+178,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,940
+179,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Evening,Morning,845
+180,Air India,Kolkata,Banglore,1,253,6,5,0,0,Morning,Night,745
+181,IndiGo,Mumbai,Hyderabad,0,164,3,5,4,0,Evening,Evening,90
+182,SpiceJet,Kolkata,Banglore,0,172,24,6,0,0,Night,Night,140
+183,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Evening,685
+184,Multiple carriers,Delhi,Cochin,1,624,6,5,0,0,Morning,Evening,615
+185,Vistara,Banglore,Delhi,1,6,3,3,6,1,Morning,Night,915
+186,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Evening,Morning,870
+187,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,480
+188,Air Asia,Delhi,Cochin,1,55,21,4,6,1,Morning,Afternoon,470
+189,SpiceJet,Kolkata,Banglore,0,172,27,6,3,0,Night,Night,140
+190,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,780
+191,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Evening,Morning,750
+192,SpiceJet,Mumbai,Hyderabad,0,164,27,5,0,0,Afternoon,Afternoon,90
+193,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,640
+194,Air India,Delhi,Cochin,2,15,6,6,3,0,Night,Evening,1275
+195,IndiGo,Chennai,Kolkata,0,75,21,5,1,0,Morning,Afternoon,145
+196,Air India,Kolkata,Banglore,2,3,6,6,3,0,Morning,Morning,1610
+197,Air India,Delhi,Cochin,1,55,21,5,1,0,Morning,Night,1010
+198,Jet Airways,Banglore,Delhi,0,389,27,4,5,1,Morning,Morning,165
+199,Air India,Kolkata,Banglore,1,253,1,4,0,0,Morning,Evening,545
+200,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Evening,Night,610
+201,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Night,Evening,1005
+202,Air India,Kolkata,Banglore,1,253,24,3,6,1,Morning,Morning,1350
+203,SpiceJet,Chennai,Kolkata,0,75,21,5,1,0,Morning,Afternoon,135
+204,IndiGo,Delhi,Cochin,1,85,21,3,3,0,Night,Afternoon,675
+205,SpiceJet,Banglore,Delhi,0,389,9,6,6,1,Morning,Morning,160
+206,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Morning,Night,1165
+207,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Night,1375
+208,Multiple carriers,Delhi,Cochin,2,17,3,3,6,1,Morning,Night,695
+209,Vistara,Kolkata,Banglore,1,124,24,5,4,0,Evening,Morning,1065
+210,Air India,Delhi,Cochin,0,49,15,6,5,1,Afternoon,Evening,180
+211,Air India,Kolkata,Banglore,2,11,15,5,2,0,Afternoon,Morning,1390
+212,Jet Airways,Kolkata,Banglore,1,124,6,6,3,0,Morning,Morning,1520
+213,IndiGo,Delhi,Cochin,1,85,27,4,5,1,Morning,Afternoon,320
+214,Multiple carriers,Delhi,Cochin,2,3,6,3,2,0,Evening,Night,465
+215,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Morning,1430
+216,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Night,365
+217,Air India,Delhi,Cochin,2,12,6,6,3,0,Evening,Morning,865
+218,Jet Airways,Delhi,Cochin,2,74,3,6,0,0,Evening,Afternoon,1025
+219,Jet Airways,Mumbai,Hyderabad,1,10,6,3,2,0,Afternoon,Afternoon,1490
+220,Air Asia,Banglore,Delhi,0,389,6,4,5,1,Night,Morning,170
+221,IndiGo,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Night,630
+222,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,435
+223,IndiGo,Chennai,Kolkata,0,75,18,5,5,1,Afternoon,Afternoon,140
+224,SpiceJet,Kolkata,Banglore,0,172,24,3,6,1,Morning,Morning,150
+225,Air India,Delhi,Cochin,2,74,15,6,5,1,Afternoon,Morning,1180
+226,IndiGo,Kolkata,Banglore,0,172,12,3,1,0,Afternoon,Evening,155
+227,IndiGo,Mumbai,Hyderabad,0,164,1,4,0,0,Afternoon,Afternoon,90
+228,SpiceJet,Delhi,Cochin,1,44,27,4,5,1,Afternoon,Night,380
+229,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Morning,1005
+230,Air India,Kolkata,Banglore,2,12,1,4,0,0,Morning,Night,1100
+231,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Evening,1640
+232,Jet Airways,Mumbai,Hyderabad,0,164,21,6,4,0,Night,Night,85
+233,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Night,Morning,565
+234,IndiGo,Banglore,Delhi,0,389,18,5,5,1,Night,Night,175
+235,IndiGo,Banglore,Delhi,1,1,9,3,5,1,Afternoon,Evening,310
+236,Multiple carriers,Delhi,Cochin,2,3,9,5,3,0,Evening,Night,460
+237,IndiGo,Kolkata,Banglore,0,172,12,3,1,0,Night,Night,165
+238,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Afternoon,395
+239,Air India,Kolkata,Banglore,1,27,24,5,4,0,Evening,Morning,965
+240,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Morning,Afternoon,1730
+241,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,780
+242,Air India,Banglore,Delhi,2,3,6,3,2,0,Morning,Night,875
+243,IndiGo,Banglore,Delhi,0,389,6,6,3,0,Afternoon,Evening,180
+244,Multiple carriers,Delhi,Cochin,2,18,9,6,6,1,Afternoon,Night,625
+245,Jet Airways,Delhi,Cochin,2,41,21,5,1,0,Night,Evening,1195
+246,Air India,Kolkata,Banglore,2,3,9,5,3,0,Morning,Night,810
+247,Vistara,Banglore,Delhi,0,389,15,4,0,0,Morning,Morning,160
+248,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,660
+249,IndiGo,Delhi,Cochin,1,624,24,5,4,0,Morning,Night,845
+250,Jet Airways,Delhi,Cochin,2,18,3,3,6,1,Morning,Night,1380
+251,Air India,Delhi,Cochin,3,4,27,5,0,0,Morning,Evening,2280
+252,Air India,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Evening,375
+253,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,285
+254,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Evening,385
+255,Jet Airways,Delhi,Cochin,2,12,6,6,3,0,Morning,Night,1300
+256,Multiple carriers,Delhi,Cochin,1,85,27,5,0,0,Morning,Afternoon,545
+257,Air India,Delhi,Cochin,0,49,15,6,5,1,Evening,Night,185
+258,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Afternoon,Afternoon,1390
+259,IndiGo,Kolkata,Banglore,1,1,12,5,6,1,Morning,Afternoon,295
+260,Air India,Kolkata,Banglore,2,10,18,5,5,1,Afternoon,Morning,970
+261,IndiGo,Mumbai,Hyderabad,0,164,27,3,2,0,Night,Night,90
+262,IndiGo,Banglore,Delhi,0,389,24,5,4,0,Afternoon,Evening,180
+263,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Evening,405
+264,Jet Airways,Banglore,Delhi,0,389,21,6,4,0,Morning,Morning,165
+265,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Night,Night,170
+266,Jet Airways,Delhi,Cochin,2,41,27,5,0,0,Night,Afternoon,810
+267,IndiGo,Banglore,Delhi,0,389,24,6,0,0,Night,Night,180
+268,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Afternoon,Night,425
+269,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Morning,Evening,705
+270,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Evening,360
+271,Air India,Kolkata,Banglore,2,10,12,6,2,0,Morning,Morning,1345
+272,Vistara,Banglore,Delhi,0,389,21,5,1,0,Morning,Afternoon,170
+273,Air Asia,Delhi,Cochin,1,55,15,5,2,0,Morning,Night,870
+274,Vistara,Kolkata,Banglore,1,124,1,5,2,0,Evening,Night,385
+275,SpiceJet,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,160
+276,Multiple carriers,Delhi,Cochin,1,85,9,4,1,0,Morning,Night,910
+277,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Night,Afternoon,1150
+278,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Evening,345
+279,GoAir,Banglore,Delhi,0,389,3,3,6,1,Morning,Morning,175
+280,IndiGo,Delhi,Cochin,1,85,27,3,2,0,Morning,Night,625
+281,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,550
+282,Air India,Delhi,Cochin,1,44,1,3,4,0,Evening,Morning,765
+283,Vistara,Kolkata,Banglore,1,124,9,5,3,0,Evening,Evening,1440
+284,Air India,Banglore,Delhi,2,2,21,3,3,0,Morning,Night,880
+285,SpiceJet,Kolkata,Banglore,0,172,15,3,4,0,Morning,Morning,160
+286,IndiGo,Banglore,Delhi,0,389,15,3,4,0,Morning,Morning,175
+287,Air India,Delhi,Cochin,1,55,21,4,6,1,Morning,Morning,1350
+288,IndiGo,Delhi,Cochin,1,624,1,4,0,0,Afternoon,Night,300
+289,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Morning,Night,940
+290,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Night,Night,320
+291,Air India,Banglore,Delhi,2,2,12,3,1,0,Evening,Afternoon,1230
+292,Air India,Delhi,Cochin,2,17,1,6,5,1,Morning,Morning,1420
+293,Vistara,Kolkata,Banglore,1,124,1,5,2,0,Morning,Night,975
+294,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Night,1375
+295,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Afternoon,Night,495
+296,Jet Airways,Kolkata,Banglore,1,124,12,6,2,0,Morning,Evening,505
+297,Air India,Kolkata,Banglore,2,10,24,5,4,0,Morning,Morning,1385
+298,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Afternoon,1170
+299,Air India,Banglore,Delhi,2,1,18,3,0,0,Morning,Morning,1580
+300,IndiGo,Kolkata,Banglore,1,27,21,5,1,0,Afternoon,Evening,315
+301,Vistara,Banglore,Delhi,0,389,9,5,3,0,Night,Night,170
+302,SpiceJet,Chennai,Kolkata,0,75,6,3,2,0,Morning,Morning,135
+303,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,750
+304,Jet Airways,Banglore,Delhi,1,107,9,3,5,1,Morning,Morning,1510
+305,IndiGo,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,845
+306,Jet Airways,Kolkata,Banglore,1,124,6,6,3,0,Evening,Afternoon,1285
+307,Jet Airways,Mumbai,Hyderabad,0,164,21,3,3,0,Afternoon,Evening,90
+308,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,520
+309,IndiGo,Kolkata,Banglore,1,27,9,6,6,1,Afternoon,Evening,290
+310,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Morning,Morning,170
+311,Air India,Kolkata,Banglore,1,124,6,5,0,0,Morning,Evening,625
+312,Air India,Kolkata,Banglore,2,2,9,5,3,0,Afternoon,Morning,1105
+313,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Afternoon,590
+314,Air India,Mumbai,Hyderabad,0,164,3,3,6,1,Afternoon,Afternoon,85
+315,Air India,Delhi,Cochin,2,74,9,6,6,1,Afternoon,Morning,1180
+316,SpiceJet,Delhi,Cochin,1,44,3,6,0,0,Afternoon,Night,380
+317,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Afternoon,590
+318,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Evening,Night,610
+319,Air India,Kolkata,Banglore,1,10,15,5,2,0,Morning,Afternoon,245
+320,Air India,Banglore,Delhi,1,5,6,3,2,0,Morning,Morning,1425
+321,Jet Airways,Banglore,Delhi,0,389,18,5,5,1,Evening,Evening,180
+322,Air India,Banglore,Delhi,1,107,21,3,3,0,Evening,Morning,905
+323,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Night,Evening,1005
+324,Air India,Banglore,Delhi,2,3,6,3,2,0,Morning,Night,1000
+325,IndiGo,Chennai,Kolkata,0,75,27,5,0,0,Morning,Morning,145
+326,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Evening,1680
+327,Vistara,Kolkata,Banglore,1,124,24,3,6,1,Morning,Morning,1495
+328,Air Asia,Delhi,Cochin,1,55,21,5,1,0,Evening,Morning,625
+329,Air India,Delhi,Cochin,2,12,15,6,5,1,Afternoon,Morning,1105
+330,Jet Airways,Banglore,Delhi,0,389,1,4,0,0,Morning,Morning,180
+331,Air India,Banglore,Delhi,0,389,27,5,0,0,Night,Night,170
+332,SpiceJet,Mumbai,Hyderabad,0,164,15,3,4,0,Morning,Morning,80
+333,SpiceJet,Banglore,Delhi,0,389,24,3,6,1,Morning,Morning,170
+334,IndiGo,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,305
+335,Jet Airways,Banglore,Delhi,0,389,15,4,0,0,Evening,Night,180
+336,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Morning,Afternoon,415
+337,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Evening,1690
+338,Air Asia,Kolkata,Banglore,2,11,18,5,5,1,Afternoon,Night,500
+339,Air India,Delhi,Cochin,2,12,9,6,6,1,Evening,Evening,1560
+340,GoAir,Banglore,Delhi,0,389,21,6,4,0,Morning,Morning,175
+341,Air India,Kolkata,Banglore,2,7,9,5,3,0,Afternoon,Morning,765
+342,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,540
+343,Air India,Mumbai,Hyderabad,0,164,18,6,1,0,Night,Night,80
+344,Air India,Kolkata,Banglore,2,10,6,6,3,0,Afternoon,Afternoon,1255
+345,IndiGo,Kolkata,Banglore,0,172,21,4,6,1,Evening,Evening,155
+346,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Evening,Evening,1400
+347,IndiGo,Kolkata,Banglore,1,27,1,4,0,0,Afternoon,Evening,290
+348,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Afternoon,1655
+349,Jet Airways,Delhi,Cochin,2,11,3,6,0,0,Evening,Night,505
+350,Jet Airways,Delhi,Cochin,2,18,6,5,0,0,Night,Evening,1295
+351,Vistara,Kolkata,Banglore,1,124,6,6,3,0,Morning,Night,930
+352,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,740
+353,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,840
+354,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Night,1720
+355,IndiGo,Delhi,Cochin,1,85,27,3,2,0,Morning,Night,885
+356,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,670
+357,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Night,1350
+358,SpiceJet,Delhi,Cochin,1,55,27,3,2,0,Afternoon,Night,375
+359,Air India,Delhi,Cochin,1,624,24,5,4,0,Morning,Evening,555
+360,IndiGo,Kolkata,Banglore,0,172,9,6,6,1,Morning,Afternoon,155
+361,IndiGo,Delhi,Cochin,1,85,18,5,5,1,Morning,Afternoon,275
+362,Jet Airways,Mumbai,Hyderabad,0,164,3,5,4,0,Evening,Night,90
+363,Vistara,Kolkata,Banglore,1,124,24,3,6,1,Morning,Night,780
+364,Vistara,Kolkata,Banglore,1,124,21,5,1,0,Evening,Morning,965
+365,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,705
+366,Jet Airways,Mumbai,Hyderabad,0,164,12,5,6,1,Morning,Morning,85
+367,Air India,Banglore,Delhi,1,1,9,3,5,1,Morning,Night,745
+368,Jet Airways,Banglore,Delhi,0,389,24,4,2,0,Morning,Afternoon,175
+369,Jet Airways,Banglore,Delhi,1,107,15,3,4,0,Morning,Morning,1200
+370,IndiGo,Banglore,Delhi,0,389,12,4,4,0,Night,Night,175
+371,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Afternoon,Night,870
+372,SpiceJet,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,160
+373,Air Asia,Kolkata,Banglore,0,172,1,4,0,0,Morning,Afternoon,155
+374,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Morning,Morning,1455
+375,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Morning,Night,750
+376,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,720
+377,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Morning,1545
+378,IndiGo,Delhi,Cochin,1,44,21,5,1,0,Night,Morning,325
+379,SpiceJet,Kolkata,Banglore,1,4,6,5,0,0,Morning,Evening,520
+380,Jet Airways,Delhi,Cochin,1,624,1,4,0,0,Night,Evening,1210
+381,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,675
+382,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,840
+383,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Morning,Morning,165
+384,GoAir,Delhi,Cochin,1,624,27,5,0,0,Morning,Evening,540
+385,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Night,Evening,870
+386,Jet Airways,Mumbai,Hyderabad,0,164,9,3,5,1,Night,Night,90
+387,SpiceJet,Kolkata,Banglore,0,172,18,6,1,0,Morning,Morning,155
+388,IndiGo,Kolkata,Banglore,0,172,1,5,2,0,Afternoon,Evening,150
+389,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Morning,Evening,800
+390,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Evening,Evening,1430
+391,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Evening,720
+392,IndiGo,Banglore,Delhi,0,389,6,6,3,0,Night,Night,170
+393,Vistara,Banglore,Delhi,0,389,21,3,3,0,Evening,Night,160
+394,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Afternoon,Evening,1665
+395,Multiple carriers,Delhi,Cochin,1,85,27,3,2,0,Morning,Night,915
+396,GoAir,Kolkata,Banglore,1,253,21,5,1,0,Night,Morning,495
+397,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,175
+398,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Morning,1235
+399,IndiGo,Banglore,Delhi,0,389,18,5,5,1,Night,Morning,170
+400,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Night,Morning,665
+401,Air Asia,Banglore,Delhi,0,389,15,4,0,0,Morning,Afternoon,165
+402,Jet Airways,Kolkata,Banglore,1,124,6,6,3,0,Evening,Morning,870
+403,Air Asia,Kolkata,Banglore,0,172,15,4,0,0,Night,Night,150
+404,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Night,Afternoon,460
+405,Jet Airways,Delhi,Cochin,2,74,15,6,5,1,Morning,Night,1375
+406,IndiGo,Kolkata,Banglore,0,172,21,5,1,0,Night,Morning,155
+407,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,755
+408,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Evening,Night,470
+409,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Evening,Morning,735
+410,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,625
+411,SpiceJet,Kolkata,Banglore,0,172,1,5,2,0,Night,Night,140
+412,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Evening,1500
+413,Jet Airways,Delhi,Cochin,2,7,12,6,2,0,Evening,Night,600
+414,Jet Airways,Delhi,Cochin,2,18,6,6,3,0,Morning,Night,1130
+415,Vistara,Banglore,Delhi,0,389,15,5,2,0,Morning,Afternoon,170
+416,Air India,Delhi,Cochin,2,15,15,5,2,0,Afternoon,Evening,1580
+417,Jet Airways,Delhi,Cochin,2,74,1,6,5,1,Morning,Night,1125
+418,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,780
+419,SpiceJet,Banglore,Delhi,1,6,18,3,0,0,Afternoon,Night,485
+420,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Evening,300
+421,IndiGo,Kolkata,Banglore,1,27,1,4,0,0,Evening,Night,265
+422,IndiGo,Delhi,Cochin,1,85,6,6,3,0,Morning,Night,895
+423,Air India,Banglore,Delhi,2,5,9,3,5,1,Morning,Night,905
+424,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Evening,Evening,1325
+425,Jet Airways,Mumbai,Hyderabad,0,164,27,6,3,0,Evening,Night,90
+426,Jet Airways,Banglore,Delhi,0,389,1,6,5,1,Evening,Night,180
+427,IndiGo,Kolkata,Banglore,0,172,27,3,2,0,Evening,Evening,160
+428,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,625
+429,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Evening,Night,585
+430,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Night,Night,1555
+431,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Morning,Afternoon,1505
+432,Jet Airways,Mumbai,Hyderabad,0,164,18,5,5,1,Evening,Night,90
+433,IndiGo,Chennai,Kolkata,0,75,21,5,1,0,Morning,Morning,145
+434,IndiGo,Kolkata,Banglore,0,172,21,3,3,0,Afternoon,Evening,155
+435,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Afternoon,Morning,1200
+436,IndiGo,Kolkata,Banglore,1,13,24,4,2,0,Morning,Morning,250
+437,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Night,655
+438,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,520
+439,Multiple carriers,Delhi,Cochin,1,624,24,5,4,0,Morning,Evening,520
+440,Jet Airways,Delhi,Cochin,1,624,9,4,1,0,Evening,Afternoon,1010
+441,SpiceJet,Mumbai,Hyderabad,0,164,1,3,4,0,Afternoon,Afternoon,80
+442,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Morning,Evening,575
+443,SpiceJet,Chennai,Kolkata,0,75,18,5,5,1,Morning,Afternoon,135
+444,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Evening,705
+445,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,560
+446,Jet Airways,Delhi,Cochin,2,74,27,6,3,0,Morning,Afternoon,1615
+447,SpiceJet,Kolkata,Banglore,0,172,24,5,4,0,Morning,Morning,155
+448,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Evening,710
+449,Multiple carriers,Delhi,Cochin,1,85,6,3,2,0,Afternoon,Night,555
+450,Multiple carriers,Delhi,Cochin,1,85,1,5,2,0,Afternoon,Night,455
+451,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Night,1025
+452,Air Asia,Kolkata,Banglore,1,124,21,5,1,0,Morning,Evening,710
+453,Vistara,Kolkata,Banglore,1,124,6,5,0,0,Evening,Evening,1350
+454,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Night,Night,335
+455,Multiple carriers,Delhi,Cochin,1,85,21,3,3,0,Afternoon,Night,545
+456,Air Asia,Banglore,Delhi,0,389,27,6,3,0,Morning,Afternoon,165
+457,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Evening,345
+458,IndiGo,Delhi,Cochin,1,624,27,5,0,0,Morning,Night,705
+459,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Afternoon,330
+460,Jet Airways,Delhi,Cochin,2,3,6,3,2,0,Afternoon,Night,2135
+461,Air India,Kolkata,Banglore,2,12,9,6,6,1,Evening,Afternoon,1035
+462,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Morning,945
+463,Air India,Kolkata,Banglore,2,7,24,3,6,1,Afternoon,Morning,765
+464,IndiGo,Delhi,Cochin,0,49,21,4,6,1,Afternoon,Evening,195
+465,Jet Airways,Delhi,Cochin,2,74,18,5,5,1,Morning,Night,1125
+466,Air India,Delhi,Cochin,1,44,6,6,3,0,Afternoon,Morning,1255
+467,Jet Airways,Delhi,Cochin,0,49,1,6,5,1,Morning,Afternoon,195
+468,Air India,Kolkata,Banglore,0,172,9,5,3,0,Afternoon,Afternoon,150
+469,Air India,Banglore,Delhi,1,3,3,3,6,1,Morning,Night,985
+470,Vistara,Kolkata,Banglore,1,124,9,5,3,0,Evening,Evening,1350
+471,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Morning,Morning,1495
+472,IndiGo,Chennai,Kolkata,0,75,18,3,0,0,Morning,Morning,140
+473,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,730
+474,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,650
+475,IndiGo,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,625
+476,IndiGo,Kolkata,Banglore,0,172,1,6,5,1,Morning,Afternoon,155
+477,IndiGo,Kolkata,Banglore,0,172,12,3,1,0,Evening,Evening,160
+478,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Night,1655
+479,Jet Airways,Kolkata,Banglore,1,124,12,5,6,1,Evening,Night,1540
+480,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,735
+481,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Night,690
+482,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Night,760
+483,IndiGo,Delhi,Cochin,1,5,6,3,2,0,Morning,Afternoon,355
+484,Air India,Kolkata,Banglore,3,2,24,3,6,1,Morning,Night,960
+485,Multiple carriers,Delhi,Cochin,2,3,15,5,2,0,Evening,Night,460
+486,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Night,Morning,775
+487,IndiGo,Delhi,Cochin,1,85,12,6,2,0,Morning,Night,635
+488,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,600
+489,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Morning,Evening,505
+490,IndiGo,Delhi,Cochin,1,44,9,3,5,1,Morning,Afternoon,310
+491,Air India,Kolkata,Banglore,2,2,12,6,2,0,Morning,Evening,1915
+492,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,450
+493,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Night,520
+494,IndiGo,Chennai,Kolkata,0,75,24,6,0,0,Afternoon,Evening,140
+495,IndiGo,Chennai,Kolkata,0,75,18,3,0,0,Afternoon,Evening,145
+496,Jet Airways,Delhi,Cochin,2,41,9,5,3,0,Afternoon,Afternoon,1390
+497,Jet Airways,Delhi,Cochin,2,74,27,6,3,0,Morning,Afternoon,1615
+498,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Afternoon,Evening,170
+499,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Evening,590
+500,IndiGo,Delhi,Cochin,1,85,9,4,1,0,Morning,Afternoon,320
+501,Jet Airways,Delhi,Cochin,2,18,9,5,3,0,Night,Afternoon,910
+502,IndiGo,Delhi,Cochin,1,624,18,5,5,1,Evening,Night,480
+503,Air India,Delhi,Cochin,2,15,27,6,3,0,Morning,Morning,1245
+504,IndiGo,Chennai,Kolkata,0,75,21,6,4,0,Morning,Morning,140
+505,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Evening,Afternoon,1285
+506,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Night,Afternoon,620
+507,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Morning,635
+508,Air Asia,Kolkata,Banglore,0,172,9,5,3,0,Evening,Night,150
+509,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,670
+510,Air India,Delhi,Cochin,2,41,21,3,3,0,Morning,Evening,2295
+511,SpiceJet,Delhi,Cochin,1,44,9,3,5,1,Afternoon,Night,360
+512,SpiceJet,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,170
+513,IndiGo,Mumbai,Hyderabad,0,164,3,5,4,0,Afternoon,Evening,90
+514,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Night,Afternoon,620
+515,IndiGo,Delhi,Cochin,2,17,6,3,2,0,Night,Night,985
+516,IndiGo,Delhi,Cochin,2,17,27,3,2,0,Morning,Night,825
+517,SpiceJet,Delhi,Cochin,1,44,9,5,3,0,Afternoon,Night,380
+518,IndiGo,Kolkata,Banglore,0,172,12,5,6,1,Afternoon,Evening,155
+519,SpiceJet,Kolkata,Banglore,0,172,9,6,6,1,Night,Night,140
+520,Air India,Delhi,Cochin,0,49,21,4,6,1,Evening,Night,185
+521,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Morning,Night,780
+522,IndiGo,Banglore,Delhi,0,389,21,3,3,0,Evening,Night,170
+523,Jet Airways,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Evening,360
+524,Jet Airways,Delhi,Cochin,2,74,6,6,3,0,Morning,Night,1375
+525,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Evening,1485
+526,IndiGo,Mumbai,Hyderabad,0,164,3,4,2,0,Evening,Night,95
+527,Air India,Delhi,Cochin,2,74,21,3,3,0,Evening,Evening,1470
+528,Jet Airways,Banglore,Delhi,0,389,24,6,0,0,Morning,Morning,165
+529,SpiceJet,Mumbai,Hyderabad,0,164,6,5,0,0,Night,Night,90
+530,IndiGo,Delhi,Cochin,1,85,6,6,3,0,Morning,Afternoon,455
+531,Jet Airways,Delhi,Cochin,2,11,9,3,5,1,Morning,Evening,2070
+532,IndiGo,Delhi,Cochin,1,85,15,6,5,1,Afternoon,Night,380
+533,Jet Airways,Delhi,Cochin,2,12,1,6,5,1,Afternoon,Night,830
+534,Vistara,Banglore,Delhi,0,389,18,5,5,1,Morning,Afternoon,170
+535,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Evening,Afternoon,1040
+536,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Night,425
+537,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Evening,1400
+538,Air Asia,Banglore,Delhi,0,389,9,6,6,1,Morning,Afternoon,165
+539,Air Asia,Banglore,Delhi,0,389,15,3,4,0,Night,Night,165
+540,Air India,Banglore,Delhi,0,389,18,4,3,0,Morning,Afternoon,165
+541,IndiGo,Chennai,Kolkata,0,75,24,3,6,1,Afternoon,Evening,145
+542,Air Asia,Delhi,Cochin,1,55,6,5,0,0,Evening,Morning,590
+543,IndiGo,Mumbai,Hyderabad,0,164,21,6,4,0,Evening,Night,95
+544,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Night,Evening,1315
+545,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,615
+546,IndiGo,Banglore,Delhi,0,389,1,4,0,0,Evening,Night,175
+547,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,735
+548,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Night,425
+549,Air India,Kolkata,Banglore,0,172,9,6,6,1,Evening,Night,155
+550,Jet Airways,Mumbai,Hyderabad,0,164,27,5,0,0,Morning,Morning,85
+551,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Night,Evening,845
+552,IndiGo,Delhi,Cochin,0,49,27,3,2,0,Night,Night,195
+553,SpiceJet,Kolkata,Banglore,1,4,6,5,0,0,Afternoon,Night,330
+554,Air India,Kolkata,Banglore,2,10,18,5,5,1,Afternoon,Afternoon,1410
+555,IndiGo,Kolkata,Banglore,1,10,24,3,6,1,Morning,Afternoon,325
+556,IndiGo,Mumbai,Hyderabad,0,164,6,6,3,0,Evening,Night,95
+557,SpiceJet,Mumbai,Hyderabad,0,164,15,3,4,0,Afternoon,Afternoon,80
+558,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Night,Morning,170
+559,SpiceJet,Banglore,Delhi,0,389,18,6,1,0,Night,Night,175
+560,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Evening,Evening,1485
+561,Air India,Delhi,Cochin,1,624,3,6,0,0,Evening,Morning,700
+562,IndiGo,Delhi,Cochin,1,85,9,5,3,0,Morning,Afternoon,455
+563,Air India,Kolkata,Banglore,2,10,12,5,6,1,Afternoon,Afternoon,1255
+564,Air India,Delhi,Cochin,0,49,9,3,5,1,Evening,Night,185
+565,Air India,Delhi,Cochin,2,41,27,3,2,0,Evening,Evening,1410
+566,Jet Airways,Delhi,Cochin,2,18,12,6,2,0,Night,Evening,1295
+567,Jet Airways,Banglore,Delhi,0,389,3,4,2,0,Evening,Night,180
+568,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Night,615
+569,Jet Airways,Banglore,Delhi,0,389,21,6,4,0,Morning,Morning,180
+570,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Night,Afternoon,560
+571,IndiGo,Delhi,Cochin,1,85,21,5,1,0,Morning,Evening,635
+572,Air India,Delhi,Cochin,1,44,3,6,0,0,Afternoon,Morning,1255
+573,Jet Airways,Banglore,Delhi,1,5,15,3,4,0,Morning,Afternoon,370
+574,Jet Airways,Kolkata,Banglore,1,124,6,5,0,0,Evening,Morning,800
+575,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Afternoon,Morning,885
+576,Air India,Delhi,Cochin,2,9,18,5,5,1,Morning,Evening,800
+577,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Afternoon,1325
+578,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Night,570
+579,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Afternoon,Night,365
+580,Vistara,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,160
+581,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,780
+582,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Morning,Evening,740
+583,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,740
+584,IndiGo,Delhi,Cochin,1,624,24,6,0,0,Night,Night,965
+585,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Afternoon,Night,535
+586,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Evening,Night,390
+587,IndiGo,Mumbai,Hyderabad,0,164,24,5,4,0,Afternoon,Evening,90
+588,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Night,Night,170
+589,Vistara,Banglore,Delhi,0,389,18,6,1,0,Night,Night,170
+590,IndiGo,Delhi,Cochin,0,49,18,3,0,0,Morning,Morning,195
+591,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,455
+592,Jet Airways,Mumbai,Hyderabad,0,164,3,6,0,0,Night,Night,85
+593,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,480
+594,Air India,Delhi,Cochin,2,41,21,3,3,0,Afternoon,Evening,1595
+595,Air Asia,Delhi,Cochin,1,55,9,6,6,1,Morning,Night,870
+596,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Night,Night,395
+597,IndiGo,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,845
+598,SpiceJet,Kolkata,Banglore,1,4,12,5,6,1,Morning,Evening,520
+599,GoAir,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Evening,310
+600,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Evening,Evening,1350
+601,Air India,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,675
+602,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,450
+603,Vistara,Banglore,Delhi,0,389,15,6,5,1,Night,Night,170
+604,Vistara,Chennai,Kolkata,0,75,12,3,1,0,Morning,Morning,135
+605,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,935
+606,Air India,Banglore,Delhi,1,107,21,3,3,0,Evening,Night,350
+607,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Afternoon,330
+608,IndiGo,Delhi,Cochin,1,44,12,6,2,0,Morning,Afternoon,315
+609,Air India,Delhi,Cochin,2,17,27,3,2,0,Afternoon,Morning,1220
+610,Air India,Kolkata,Banglore,1,124,18,5,5,1,Evening,Evening,1435
+611,IndiGo,Delhi,Cochin,1,85,15,4,0,0,Morning,Afternoon,275
+612,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Night,Night,335
+613,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Night,Morning,730
+614,IndiGo,Mumbai,Hyderabad,0,164,9,3,5,1,Evening,Evening,85
+615,IndiGo,Kolkata,Banglore,1,13,1,4,0,0,Morning,Morning,240
+616,Air India,Banglore,Delhi,0,389,27,6,3,0,Afternoon,Afternoon,170
+617,Jet Airways,Mumbai,Hyderabad,0,164,1,6,5,1,Evening,Night,90
+618,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Evening,Evening,1500
+619,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Evening,Morning,870
+620,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Evening,Night,435
+621,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Night,Night,965
+622,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Evening,360
+623,SpiceJet,Delhi,Cochin,1,44,15,6,5,1,Morning,Morning,315
+624,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,615
+625,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,720
+626,Vistara,Kolkata,Banglore,1,124,12,6,2,0,Evening,Evening,1550
+627,IndiGo,Mumbai,Hyderabad,0,164,1,5,2,0,Afternoon,Afternoon,90
+628,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Night,1330
+629,IndiGo,Mumbai,Hyderabad,0,164,6,5,0,0,Evening,Night,95
+630,SpiceJet,Kolkata,Banglore,0,172,1,6,5,1,Morning,Morning,145
+631,IndiGo,Kolkata,Banglore,1,27,12,5,6,1,Afternoon,Evening,315
+632,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,615
+633,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,455
+634,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Night,1215
+635,Air India,Kolkata,Banglore,2,12,24,3,6,1,Morning,Night,1100
+636,IndiGo,Kolkata,Banglore,0,172,21,5,1,0,Evening,Night,155
+637,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Evening,615
+638,IndiGo,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,625
+639,Air India,Delhi,Cochin,0,49,18,5,5,1,Evening,Night,185
+640,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Night,Evening,845
+641,IndiGo,Delhi,Cochin,1,85,9,6,6,1,Morning,Night,835
+642,IndiGo,Banglore,Delhi,1,3,3,3,6,1,Morning,Afternoon,245
+643,IndiGo,Kolkata,Banglore,1,13,9,4,1,0,Morning,Morning,245
+644,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Night,745
+645,Multiple carriers,Delhi,Cochin,1,85,9,6,6,1,Afternoon,Night,565
+646,SpiceJet,Chennai,Kolkata,0,75,24,6,0,0,Morning,Afternoon,135
+647,Vistara,Banglore,Delhi,1,6,1,3,4,0,Morning,Afternoon,355
+648,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Night,480
+649,Air India,Banglore,Delhi,0,389,24,3,6,1,Evening,Evening,165
+650,Vistara,Kolkata,Banglore,1,124,6,6,3,0,Evening,Morning,865
+651,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Evening,1530
+652,IndiGo,Delhi,Cochin,1,624,9,6,6,1,Night,Morning,395
+653,IndiGo,Kolkata,Banglore,1,10,3,4,2,0,Evening,Night,220
+654,Air Asia,Kolkata,Banglore,0,172,24,6,0,0,Morning,Afternoon,155
+655,Air India,Kolkata,Banglore,2,11,9,5,3,0,Afternoon,Night,590
+656,IndiGo,Banglore,Delhi,0,389,15,4,0,0,Night,Night,165
+657,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,675
+658,SpiceJet,Kolkata,Banglore,1,2,15,5,2,0,Morning,Evening,435
+659,SpiceJet,Kolkata,Banglore,1,2,1,4,0,0,Morning,Evening,435
+660,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Morning,Afternoon,475
+661,IndiGo,Kolkata,Banglore,0,172,21,6,4,0,Morning,Afternoon,165
+662,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Night,1005
+663,IndiGo,Delhi,Cochin,1,44,27,4,5,1,Morning,Afternoon,315
+664,Jet Airways,Delhi,Cochin,2,41,21,3,3,0,Evening,Night,1995
+665,GoAir,Banglore,Delhi,0,389,6,5,0,0,Morning,Morning,175
+666,Air India,Delhi,Cochin,1,4,15,6,5,1,Morning,Morning,1535
+667,IndiGo,Chennai,Kolkata,0,75,1,3,4,0,Evening,Night,140
+668,Air Asia,Delhi,Cochin,1,55,12,6,2,0,Morning,Afternoon,330
+669,GoAir,Banglore,Delhi,0,389,21,5,1,0,Evening,Night,165
+670,Air India,Banglore,Delhi,2,4,3,3,6,1,Morning,Evening,770
+671,Air India,Banglore,Delhi,0,389,24,5,4,0,Afternoon,Afternoon,170
+672,Air India,Delhi,Cochin,0,49,1,6,5,1,Evening,Night,185
+673,Air India,Delhi,Cochin,3,4,21,3,3,0,Morning,Morning,1585
+674,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Evening,Morning,800
+675,Jet Airways,Kolkata,Banglore,1,124,12,6,2,0,Evening,Morning,1075
+676,IndiGo,Banglore,Delhi,0,389,21,3,3,0,Morning,Morning,180
+677,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Night,1450
+678,IndiGo,Kolkata,Banglore,0,172,3,6,0,0,Night,Night,160
+679,Air India,Delhi,Cochin,2,4,21,3,3,0,Afternoon,Morning,1100
+680,Air India,Kolkata,Banglore,1,124,15,5,2,0,Morning,Afternoon,375
+681,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,735
+682,IndiGo,Kolkata,Banglore,1,10,12,6,2,0,Evening,Night,220
+683,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Afternoon,Evening,1775
+684,IndiGo,Banglore,Delhi,0,389,15,6,5,1,Evening,Night,175
+685,IndiGo,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,845
+686,Air India,Kolkata,Banglore,1,10,1,5,2,0,Morning,Afternoon,245
+687,IndiGo,Delhi,Cochin,1,85,3,6,0,0,Morning,Afternoon,320
+688,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,760
+689,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,450
+690,IndiGo,Kolkata,Banglore,0,172,1,6,5,1,Afternoon,Evening,155
+691,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,1165
+692,IndiGo,Kolkata,Banglore,0,172,3,3,6,1,Afternoon,Evening,155
+693,SpiceJet,Kolkata,Banglore,0,172,21,5,1,0,Morning,Morning,145
+694,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Afternoon,395
+695,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Night,Afternoon,525
+696,Air India,Delhi,Cochin,1,44,27,3,2,0,Afternoon,Morning,1255
+697,Vistara,Kolkata,Banglore,1,124,6,5,0,0,Evening,Night,1625
+698,Air India,Delhi,Cochin,2,15,1,6,5,1,Morning,Morning,1245
+699,Air India,Banglore,Delhi,0,389,18,5,5,1,Morning,Morning,165
+700,Air India,Kolkata,Banglore,2,2,21,5,1,0,Morning,Evening,535
+701,IndiGo,Kolkata,Banglore,1,27,12,6,2,0,Afternoon,Evening,315
+702,IndiGo,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,705
+703,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Morning,945
+704,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,935
+705,Air India,Delhi,Cochin,1,624,1,6,5,1,Night,Evening,925
+706,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Afternoon,1430
+707,Air India,Kolkata,Banglore,1,27,12,6,2,0,Evening,Morning,965
+708,Vistara,Delhi,Cochin,0,49,21,5,1,0,Afternoon,Evening,190
+709,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Evening,Morning,815
+710,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Morning,Evening,540
+711,SpiceJet,Banglore,Delhi,0,389,15,4,0,0,Night,Night,175
+712,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,1165
+713,IndiGo,Mumbai,Hyderabad,0,164,1,3,4,0,Evening,Night,90
+714,IndiGo,Delhi,Cochin,2,17,6,3,2,0,Morning,Night,825
+715,Air Asia,Kolkata,Banglore,0,172,15,3,4,0,Evening,Night,150
+716,Air India,Delhi,Cochin,2,15,15,6,5,1,Afternoon,Evening,1730
+717,Air India,Mumbai,Hyderabad,1,3,6,3,2,0,Morning,Evening,530
+718,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Evening,345
+719,Jet Airways,Delhi,Cochin,2,3,9,3,5,1,Afternoon,Night,2135
+720,Jet Airways,Banglore,Delhi,1,107,15,3,4,0,Morning,Afternoon,380
+721,IndiGo,Delhi,Cochin,1,624,27,3,2,0,Morning,Afternoon,400
+722,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,585
+723,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Evening,385
+724,Air India,Kolkata,Banglore,2,3,18,5,5,1,Morning,Morning,1200
+725,Air India,Delhi,Cochin,3,4,27,5,0,0,Morning,Morning,1585
+726,IndiGo,Banglore,Delhi,0,389,21,4,6,1,Morning,Morning,170
+727,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,600
+728,IndiGo,Delhi,Cochin,1,44,9,6,6,1,Morning,Afternoon,315
+729,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Morning,Afternoon,330
+730,Vistara,Banglore,Delhi,0,389,18,5,5,1,Morning,Afternoon,170
+731,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Evening,Night,385
+732,SpiceJet,Chennai,Kolkata,0,75,24,6,0,0,Evening,Evening,140
+733,IndiGo,Chennai,Kolkata,0,75,12,3,1,0,Afternoon,Evening,145
+734,Air India,Delhi,Cochin,2,6,1,6,5,1,Afternoon,Evening,1820
+735,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Night,Evening,1210
+736,Multiple carriers,Delhi,Cochin,1,85,9,5,3,0,Morning,Afternoon,385
+737,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Evening,385
+738,SpiceJet,Kolkata,Banglore,0,172,12,6,2,0,Evening,Evening,150
+739,IndiGo,Chennai,Kolkata,0,75,9,5,3,0,Afternoon,Evening,140
+740,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Afternoon,Night,510
+741,Jet Airways,Delhi,Cochin,2,74,9,5,3,0,Morning,Evening,810
+742,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Afternoon,Night,510
+743,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Morning,865
+744,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,975
+745,SpiceJet,Delhi,Cochin,1,44,12,6,2,0,Afternoon,Night,380
+746,Air India,Delhi,Cochin,0,49,24,6,0,0,Morning,Morning,170
+747,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Night,1065
+748,Air India,Kolkata,Banglore,2,10,12,5,6,1,Morning,Night,955
+749,Air Asia,Kolkata,Banglore,0,172,6,6,3,0,Night,Night,150
+750,Air India,Kolkata,Banglore,2,11,9,6,6,1,Afternoon,Night,590
+751,IndiGo,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,625
+752,Jet Airways,Banglore,Delhi,0,389,27,6,3,0,Evening,Night,180
+753,Jet Airways,Delhi,Cochin,2,12,12,6,2,0,Afternoon,Night,830
+754,IndiGo,Delhi,Cochin,0,49,9,3,5,1,Afternoon,Evening,185
+755,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,810
+756,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Morning,Afternoon,330
+757,IndiGo,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,985
+758,IndiGo,Delhi,Cochin,1,55,6,6,3,0,Morning,Morning,295
+759,IndiGo,Banglore,Delhi,0,389,12,6,2,0,Night,Night,165
+760,IndiGo,Banglore,Delhi,0,389,9,3,5,1,Evening,Night,170
+761,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,440
+762,Jet Airways,Banglore,Delhi,0,389,12,4,4,0,Morning,Morning,180
+763,Air India,Banglore,Delhi,0,389,6,6,3,0,Evening,Evening,165
+764,IndiGo,Chennai,Kolkata,0,75,21,3,3,0,Night,Night,140
+765,Air India,Delhi,Cochin,2,74,27,5,0,0,Afternoon,Morning,1180
+766,IndiGo,Delhi,Cochin,2,17,9,3,5,1,Night,Night,985
+767,GoAir,Banglore,Delhi,0,389,27,6,3,0,Evening,Night,165
+768,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Night,1375
+769,Air India,Mumbai,Hyderabad,0,164,21,5,1,0,Morning,Morning,80
+770,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,705
+771,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Afternoon,Night,535
+772,Air India,Delhi,Cochin,2,9,9,6,6,1,Morning,Evening,800
+773,Vistara,Banglore,Delhi,0,389,3,6,0,0,Night,Night,170
+774,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Morning,Evening,575
+775,Air Asia,Banglore,Delhi,0,389,1,5,2,0,Morning,Afternoon,165
+776,Multiple carriers,Delhi,Cochin,1,85,9,3,5,1,Morning,Night,755
+777,SpiceJet,Banglore,Delhi,0,389,12,6,2,0,Night,Night,175
+778,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Afternoon,1315
+779,Vistara,Banglore,Delhi,0,389,21,6,4,0,Morning,Morning,160
+780,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,465
+781,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,615
+782,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Night,Evening,1265
+783,GoAir,Delhi,Cochin,1,5,24,5,4,0,Morning,Afternoon,370
+784,Jet Airways,Delhi,Cochin,2,6,21,3,3,0,Afternoon,Evening,1600
+785,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Evening,Night,505
+786,Air India,Delhi,Cochin,2,12,6,3,2,0,Morning,Evening,2240
+787,Air Asia,Kolkata,Banglore,1,10,6,5,0,0,Morning,Morning,220
+788,Jet Airways,Delhi,Cochin,2,6,27,6,3,0,Morning,Evening,440
+789,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Morning,Evening,505
+790,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Night,Evening,1270
+791,Jet Airways,Banglore,Delhi,0,389,24,4,2,0,Morning,Morning,165
+792,GoAir,Banglore,Delhi,0,389,15,4,0,0,Morning,Afternoon,170
+793,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Night,Night,1760
+794,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Night,1375
+795,IndiGo,Chennai,Kolkata,0,75,12,3,1,0,Morning,Morning,140
+796,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Evening,Morning,870
+797,Air India,Mumbai,Hyderabad,0,164,15,3,4,0,Afternoon,Afternoon,90
+798,IndiGo,Delhi,Cochin,1,55,27,5,0,0,Morning,Morning,295
+799,IndiGo,Banglore,Delhi,0,389,1,6,5,1,Evening,Night,175
+800,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Evening,Night,550
+801,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Morning,Afternoon,330
+802,Vistara,Kolkata,Banglore,1,124,9,5,3,0,Evening,Night,1625
+803,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Morning,Evening,800
+804,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,505
+805,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Night,Evening,1350
+806,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Night,Morning,755
+807,SpiceJet,Chennai,Kolkata,0,75,12,6,2,0,Evening,Evening,140
+808,Multiple carriers,Delhi,Cochin,1,624,1,5,2,0,Afternoon,Evening,385
+809,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,660
+810,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Morning,Evening,540
+811,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Afternoon,Night,510
+812,IndiGo,Delhi,Cochin,1,85,21,5,1,0,Morning,Evening,785
+813,Vistara,Banglore,Delhi,0,389,3,3,6,1,Morning,Afternoon,165
+814,IndiGo,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,705
+815,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,780
+816,Jet Airways,Mumbai,Hyderabad,0,164,9,3,5,1,Morning,Morning,90
+817,Air Asia,Kolkata,Banglore,1,124,24,3,6,1,Night,Morning,730
+818,IndiGo,Kolkata,Banglore,1,27,9,6,6,1,Night,Morning,300
+819,Air India,Kolkata,Banglore,2,10,6,5,0,0,Morning,Afternoon,1780
+820,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,640
+821,IndiGo,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,625
+822,Air India,Kolkata,Banglore,2,3,12,5,6,1,Morning,Morning,1200
+823,Jet Airways,Delhi,Cochin,2,11,12,6,2,0,Evening,Night,605
+824,Multiple carriers,Delhi,Cochin,1,85,21,5,1,0,Evening,Night,435
+825,IndiGo,Delhi,Cochin,1,85,27,3,2,0,Morning,Night,825
+826,SpiceJet,Kolkata,Banglore,0,172,3,6,0,0,Morning,Morning,145
+827,IndiGo,Banglore,Delhi,0,389,27,6,3,0,Morning,Afternoon,170
+828,Air India,Banglore,Delhi,0,389,24,3,6,1,Morning,Morning,165
+829,Jet Airways,Delhi,Cochin,2,18,27,3,2,0,Morning,Evening,805
+830,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Afternoon,1655
+831,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Afternoon,Night,745
+832,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Afternoon,1295
+833,Air India,Kolkata,Banglore,2,10,12,6,2,0,Morning,Afternoon,1700
+834,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Morning,1075
+835,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,530
+836,Air India,Mumbai,Hyderabad,0,164,15,5,2,0,Afternoon,Afternoon,90
+837,Air India,Delhi,Cochin,2,12,21,3,3,0,Evening,Evening,1560
+838,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Night,Afternoon,620
+839,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Night,875
+840,Jet Airways,Banglore,Delhi,0,389,12,4,4,0,Evening,Night,180
+841,SpiceJet,Kolkata,Banglore,0,172,18,5,5,1,Night,Night,140
+842,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Evening,Night,175
+843,Jet Airways,Banglore,Delhi,0,389,27,5,0,0,Morning,Morning,165
+844,Air India,Delhi,Cochin,2,9,9,3,5,1,Morning,Morning,1545
+845,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,690
+846,SpiceJet,Chennai,Kolkata,0,75,3,3,6,1,Morning,Afternoon,155
+847,Jet Airways,Banglore,Delhi,0,389,15,6,5,1,Morning,Morning,180
+848,Air India,Delhi,Cochin,1,624,18,5,5,1,Evening,Morning,700
+849,GoAir,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,175
+850,SpiceJet,Delhi,Cochin,1,7,3,3,6,1,Morning,Afternoon,270
+851,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,690
+852,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,560
+853,Air India,Banglore,Delhi,0,389,12,5,6,1,Night,Night,170
+854,SpiceJet,Kolkata,Banglore,1,4,1,4,0,0,Morning,Evening,435
+855,Vistara,Banglore,Delhi,0,389,24,6,0,0,Morning,Afternoon,170
+856,Air India,Delhi,Cochin,2,15,27,5,0,0,Afternoon,Evening,1580
+857,IndiGo,Kolkata,Banglore,1,27,12,6,2,0,Afternoon,Evening,290
+858,IndiGo,Kolkata,Banglore,0,172,27,6,3,0,Afternoon,Evening,155
+859,IndiGo,Banglore,Delhi,0,389,24,6,0,0,Evening,Night,170
+860,IndiGo,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,505
+861,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Evening,Night,590
+862,Air India,Delhi,Cochin,2,4,1,6,5,1,Afternoon,Morning,1100
+863,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Morning,Evening,685
+864,Air India,Kolkata,Banglore,1,124,1,5,2,0,Evening,Morning,745
+865,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Night,Afternoon,525
+866,IndiGo,Chennai,Kolkata,0,75,12,6,2,0,Evening,Night,140
+867,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,715
+868,Vistara,Kolkata,Banglore,1,124,1,5,2,0,Evening,Night,1580
+869,SpiceJet,Banglore,Delhi,0,389,18,4,3,0,Morning,Morning,160
+870,Air Asia,Kolkata,Banglore,2,11,6,5,0,0,Afternoon,Night,500
+871,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Night,Night,335
+872,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,665
+873,Air India,Delhi,Cochin,2,17,9,6,6,1,Afternoon,Morning,1220
+874,IndiGo,Chennai,Kolkata,0,75,21,3,3,0,Afternoon,Evening,145
+875,Multiple carriers,Delhi,Cochin,3,2,6,3,2,0,Morning,Night,840
+876,Vistara,Kolkata,Banglore,1,124,24,5,4,0,Morning,Morning,1655
+877,Air India,Banglore,Delhi,3,1,12,3,1,0,Morning,Evening,1995
+878,SpiceJet,Kolkata,Banglore,0,172,3,4,2,0,Evening,Evening,150
+879,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,810
+880,Jet Airways,Banglore,Delhi,1,1,6,3,2,0,Morning,Afternoon,390
+881,GoAir,Banglore,Delhi,0,389,15,5,2,0,Evening,Night,165
+882,Jet Airways,Banglore,Delhi,0,389,3,5,4,0,Morning,Morning,165
+883,Jet Airways,Banglore,Delhi,0,389,27,5,0,0,Morning,Afternoon,175
+884,Jet Airways,Delhi,Cochin,2,41,27,5,0,0,Night,Night,1760
+885,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Morning,Night,1280
+886,Air India,Banglore,Delhi,0,389,27,6,3,0,Morning,Morning,165
+887,SpiceJet,Banglore,Delhi,0,389,21,4,6,1,Night,Night,175
+888,Air India,Kolkata,Banglore,2,12,12,6,2,0,Morning,Afternoon,1665
+889,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Morning,Evening,790
+890,IndiGo,Banglore,Delhi,0,389,9,6,6,1,Night,Morning,170
+891,SpiceJet,Kolkata,Banglore,0,172,12,5,6,1,Morning,Morning,145
+892,IndiGo,Delhi,Cochin,1,624,21,3,3,0,Evening,Night,485
+893,IndiGo,Kolkata,Banglore,0,172,1,5,2,0,Night,Night,160
+894,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Night,Night,175
+895,Air India,Kolkata,Banglore,1,253,12,5,6,1,Morning,Morning,1350
+896,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Evening,1485
+897,Multiple carriers,Delhi,Cochin,1,85,6,5,0,0,Afternoon,Night,455
+898,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Morning,Morning,165
+899,Air India,Delhi,Cochin,2,15,12,6,2,0,Night,Evening,1275
+900,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Night,Night,170
+901,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Night,960
+902,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Night,750
+903,Jet Airways,Delhi,Cochin,2,41,27,5,0,0,Night,Evening,1195
+904,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Evening,800
+905,Air India,Mumbai,Hyderabad,1,10,12,3,1,0,Evening,Night,1665
+906,IndiGo,Chennai,Kolkata,0,75,6,5,0,0,Morning,Afternoon,145
+907,Air India,Kolkata,Banglore,0,172,27,3,2,0,Evening,Night,155
+908,Air India,Mumbai,Hyderabad,0,164,24,6,0,0,Evening,Evening,75
+909,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,175
+910,Air India,Mumbai,Hyderabad,2,2,6,3,2,0,Morning,Morning,1410
+911,Air India,Delhi,Cochin,1,55,3,3,6,1,Evening,Morning,705
+912,Air India,Delhi,Cochin,0,49,12,6,2,0,Evening,Night,185
+913,SpiceJet,Kolkata,Banglore,0,172,27,4,5,1,Morning,Morning,155
+914,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Evening,Night,465
+915,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,660
+916,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,585
+917,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,780
+918,SpiceJet,Chennai,Kolkata,0,75,1,6,5,1,Morning,Afternoon,135
+919,Vistara,Banglore,Delhi,1,6,21,3,3,0,Morning,Afternoon,355
+920,Air India,Banglore,Delhi,0,389,9,3,5,1,Morning,Morning,165
+921,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Night,Morning,665
+922,Air Asia,Kolkata,Banglore,0,172,3,6,0,0,Evening,Night,150
+923,IndiGo,Banglore,Delhi,0,389,9,3,5,1,Night,Night,165
+924,Air India,Delhi,Cochin,1,55,3,6,0,0,Evening,Night,320
+925,Air India,Delhi,Cochin,2,15,21,5,1,0,Morning,Morning,1490
+926,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Evening,Night,585
+927,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,925
+928,SpiceJet,Delhi,Cochin,1,7,15,5,2,0,Morning,Afternoon,270
+929,Jet Airways,Delhi,Cochin,2,74,9,5,3,0,Morning,Night,1375
+930,IndiGo,Delhi,Cochin,0,49,6,4,5,1,Morning,Morning,195
+931,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Night,340
+932,SpiceJet,Chennai,Kolkata,0,75,1,6,5,1,Morning,Morning,135
+933,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,170
+934,Air India,Delhi,Cochin,2,74,21,3,3,0,Afternoon,Evening,435
+935,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Evening,Night,465
+936,Air India,Banglore,Delhi,0,389,24,3,6,1,Night,Night,165
+937,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Morning,1055
+938,IndiGo,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Night,300
+939,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Night,910
+940,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,505
+941,IndiGo,Banglore,Delhi,0,389,21,4,6,1,Night,Night,170
+942,SpiceJet,Chennai,Kolkata,0,75,12,5,6,1,Evening,Evening,140
+943,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,540
+944,IndiGo,Delhi,Cochin,1,44,15,4,0,0,Night,Morning,325
+945,IndiGo,Kolkata,Banglore,1,5,21,5,1,0,Afternoon,Evening,340
+946,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Night,Night,170
+947,Jet Airways,Delhi,Cochin,2,7,21,3,3,0,Evening,Night,600
+948,Jet Airways,Delhi,Cochin,2,74,3,6,0,0,Morning,Evening,560
+949,Jet Airways,Banglore,Delhi,0,389,6,5,0,0,Morning,Morning,180
+950,Air India,Banglore,Delhi,2,1,6,3,2,0,Morning,Afternoon,2025
+951,SpiceJet,Banglore,Delhi,0,389,6,5,0,0,Night,Night,175
+952,IndiGo,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Night,630
+953,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Evening,400
+954,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,730
+955,SpiceJet,Banglore,Delhi,0,389,1,6,5,1,Morning,Morning,160
+956,Air India,Banglore,Delhi,1,2,21,3,3,0,Morning,Afternoon,410
+957,Vistara,Banglore,Delhi,0,389,18,6,1,0,Evening,Night,165
+958,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Night,300
+959,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Night,Evening,1005
+960,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Evening,800
+961,IndiGo,Delhi,Cochin,1,44,6,3,2,0,Morning,Afternoon,310
+962,Jet Airways,Mumbai,Hyderabad,0,164,3,5,4,0,Morning,Morning,85
+963,Jet Airways,Delhi,Cochin,2,11,12,6,2,0,Evening,Night,505
+964,Vistara,Banglore,Delhi,0,389,9,4,1,0,Evening,Evening,155
+965,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Evening,Evening,1365
+966,Air India,Mumbai,Hyderabad,2,1,6,3,2,0,Morning,Evening,610
+967,IndiGo,Banglore,Delhi,0,389,18,5,5,1,Morning,Morning,165
+968,Jet Airways,Delhi,Cochin,2,3,9,3,5,1,Afternoon,Night,2135
+969,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,685
+970,Vistara,Banglore,Delhi,0,389,24,6,0,0,Evening,Night,165
+971,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Morning,Evening,585
+972,IndiGo,Kolkata,Banglore,0,172,3,4,2,0,Afternoon,Afternoon,150
+973,Air India,Mumbai,Hyderabad,0,164,9,5,3,0,Morning,Morning,80
+974,Air India,Kolkata,Banglore,2,10,12,6,2,0,Morning,Morning,1345
+975,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,705
+976,IndiGo,Mumbai,Hyderabad,0,164,6,6,3,0,Afternoon,Evening,90
+977,Jet Airways,Delhi,Cochin,2,74,18,5,5,1,Morning,Night,1125
+978,Air India,Mumbai,Hyderabad,0,164,6,3,2,0,Afternoon,Afternoon,90
+979,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Evening,Morning,800
+980,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Morning,735
+981,IndiGo,Kolkata,Banglore,0,172,15,6,5,1,Morning,Afternoon,155
+982,IndiGo,Delhi,Cochin,1,624,24,5,4,0,Afternoon,Night,570
+983,Jet Airways,Banglore,Delhi,1,107,15,3,4,0,Night,Night,1450
+984,IndiGo,Kolkata,Banglore,1,27,6,4,5,1,Afternoon,Evening,290
+985,Vistara,Banglore,Delhi,1,6,15,3,4,0,Morning,Night,915
+986,Air Asia,Banglore,Delhi,0,389,15,4,0,0,Night,Morning,170
+987,Air India,Kolkata,Banglore,2,2,1,4,0,0,Morning,Morning,1440
+988,Jet Airways,Kolkata,Banglore,1,124,12,5,6,1,Evening,Evening,1570
+989,IndiGo,Banglore,Delhi,0,389,15,6,5,1,Night,Night,170
+990,Jet Airways,Banglore,Delhi,0,389,15,6,5,1,Morning,Morning,180
+991,Air Asia,Kolkata,Banglore,1,124,18,5,5,1,Morning,Night,955
+992,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Evening,710
+993,IndiGo,Chennai,Kolkata,0,75,3,6,0,0,Morning,Afternoon,145
+994,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,560
+995,Vistara,Delhi,Cochin,0,49,27,3,2,0,Afternoon,Evening,175
+996,Jet Airways,Mumbai,Hyderabad,0,164,21,3,3,0,Morning,Morning,90
+997,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Evening,Night,510
+998,Vistara,Banglore,Delhi,0,389,24,3,6,1,Morning,Afternoon,165
+999,Air India,Kolkata,Banglore,2,11,24,5,4,0,Afternoon,Morning,1390
+1000,IndiGo,Banglore,Delhi,0,389,21,6,4,0,Morning,Afternoon,170
+1001,Jet Airways,Delhi,Cochin,2,5,24,6,0,0,Morning,Afternoon,1490
+1002,IndiGo,Banglore,Delhi,0,389,9,4,1,0,Night,Night,175
+1003,GoAir,Delhi,Cochin,1,624,6,6,3,0,Morning,Afternoon,355
+1004,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Afternoon,Morning,885
+1005,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Night,Evening,945
+1006,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,585
+1007,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Afternoon,475
+1008,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Evening,385
+1009,Air India,Kolkata,Banglore,0,172,21,6,4,0,Evening,Night,155
+1010,Jet Airways,Banglore,Delhi,0,389,1,6,5,1,Morning,Afternoon,175
+1011,Jet Airways,Delhi,Cochin,2,74,9,5,3,0,Morning,Night,1375
+1012,Air India,Delhi,Cochin,1,55,27,6,3,0,Evening,Morning,875
+1013,Jet Airways,Kolkata,Banglore,1,124,1,5,2,0,Evening,Morning,800
+1014,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,405
+1015,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Morning,Night,1330
+1016,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Afternoon,Afternoon,1315
+1017,Air India,Mumbai,Hyderabad,1,3,6,3,2,0,Afternoon,Morning,995
+1018,Vistara,Banglore,Delhi,0,389,21,5,1,0,Night,Night,170
+1019,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Morning,800
+1020,Jet Airways,Mumbai,Hyderabad,0,164,15,6,5,1,Morning,Morning,85
+1021,SpiceJet,Banglore,Delhi,0,389,12,6,2,0,Night,Night,175
+1022,Air India,Delhi,Cochin,2,15,9,3,5,1,Morning,Evening,2185
+1023,Air India,Delhi,Cochin,2,74,21,5,1,0,Afternoon,Evening,435
+1024,IndiGo,Delhi,Cochin,1,85,15,6,5,1,Morning,Afternoon,275
+1025,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Night,Evening,845
+1026,Air Asia,Kolkata,Banglore,1,10,24,3,6,1,Morning,Morning,225
+1027,SpiceJet,Mumbai,Hyderabad,0,164,3,3,6,1,Night,Night,85
+1028,IndiGo,Delhi,Cochin,0,49,15,4,0,0,Morning,Morning,195
+1029,Jet Airways,Banglore,Delhi,0,389,9,5,3,0,Evening,Evening,180
+1030,Air India,Chennai,Kolkata,0,75,3,6,0,0,Morning,Afternoon,135
+1031,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Afternoon,1170
+1032,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,540
+1033,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Evening,705
+1034,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,380
+1035,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Morning,Afternoon,1595
+1036,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Night,840
+1037,Air India,Delhi,Cochin,2,12,15,5,2,0,Evening,Evening,1560
+1038,Jet Airways,Banglore,Delhi,0,389,3,5,4,0,Morning,Morning,180
+1039,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Night,Evening,1210
+1040,Air Asia,Kolkata,Banglore,0,172,1,6,5,1,Evening,Night,150
+1041,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,540
+1042,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Evening,510
+1043,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Night,Evening,860
+1044,GoAir,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,175
+1045,Air Asia,Kolkata,Banglore,0,172,6,5,0,0,Night,Night,150
+1046,IndiGo,Kolkata,Banglore,0,172,1,5,2,0,Afternoon,Afternoon,150
+1047,IndiGo,Delhi,Cochin,1,85,24,6,0,0,Morning,Night,940
+1048,IndiGo,Delhi,Cochin,1,85,9,6,6,1,Morning,Night,635
+1049,SpiceJet,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,90
+1050,Air India,Banglore,Delhi,0,389,18,5,5,1,Night,Night,170
+1051,SpiceJet,Mumbai,Hyderabad,0,164,6,5,0,0,Afternoon,Afternoon,90
+1052,IndiGo,Delhi,Cochin,0,49,3,6,0,0,Night,Night,195
+1053,SpiceJet,Mumbai,Hyderabad,0,164,1,4,0,0,Night,Night,90
+1054,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Evening,Night,470
+1055,IndiGo,Banglore,Delhi,0,389,27,6,3,0,Evening,Night,170
+1056,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Night,Evening,1195
+1057,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,770
+1058,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Afternoon,Afternoon,1315
+1059,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Evening,Night,170
+1060,Vistara,Delhi,Cochin,0,49,9,6,6,1,Morning,Morning,190
+1061,IndiGo,Mumbai,Hyderabad,0,164,6,5,0,0,Afternoon,Evening,90
+1062,SpiceJet,Kolkata,Banglore,1,4,12,6,2,0,Morning,Evening,435
+1063,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,845
+1064,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,730
+1065,Vistara,Banglore,Delhi,0,389,9,5,3,0,Morning,Afternoon,170
+1066,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Morning,Morning,180
+1067,IndiGo,Delhi,Cochin,1,624,9,6,6,1,Morning,Afternoon,300
+1068,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Night,615
+1069,IndiGo,Banglore,Delhi,0,389,1,4,0,0,Night,Night,170
+1070,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,600
+1071,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Evening,Evening,1335
+1072,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Evening,Night,465
+1073,Jet Airways,Mumbai,Hyderabad,0,164,6,6,3,0,Morning,Morning,85
+1074,IndiGo,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Night,570
+1075,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Morning,1010
+1076,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,705
+1077,Jet Airways,Delhi,Cochin,2,18,9,4,1,0,Night,Evening,1295
+1078,Jet Airways,Mumbai,Hyderabad,0,164,1,4,0,0,Morning,Morning,85
+1079,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,610
+1080,Multiple carriers,Delhi,Cochin,2,18,27,5,0,0,Afternoon,Night,625
+1081,Jet Airways,Banglore,Delhi,0,389,6,4,5,1,Evening,Evening,180
+1082,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Evening,560
+1083,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Evening,1325
+1084,Jet Airways,Banglore,Delhi,0,389,9,6,6,1,Morning,Morning,180
+1085,Air India,Kolkata,Banglore,2,11,18,5,5,1,Morning,Night,1045
+1086,Air India,Banglore,Delhi,2,2,12,3,1,0,Morning,Afternoon,1870
+1087,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Night,Night,320
+1088,Air India,Kolkata,Banglore,2,11,9,5,3,0,Afternoon,Morning,1390
+1089,Jet Airways,Kolkata,Banglore,1,124,1,5,2,0,Evening,Evening,1295
+1090,Jet Airways,Delhi,Cochin,2,41,24,6,0,0,Evening,Afternoon,1045
+1091,Air India,Delhi,Cochin,2,17,6,3,2,0,Morning,Morning,1420
+1092,SpiceJet,Kolkata,Banglore,0,172,18,3,0,0,Evening,Evening,150
+1093,Air India,Banglore,Delhi,1,2,1,3,4,0,Morning,Afternoon,410
+1094,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Night,Night,455
+1095,Jet Airways,Banglore,Delhi,1,107,15,3,4,0,Morning,Morning,1445
+1096,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Morning,Morning,180
+1097,Air India,Delhi,Cochin,1,624,9,4,1,0,Morning,Evening,555
+1098,IndiGo,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,860
+1099,Air Asia,Kolkata,Banglore,0,172,27,5,0,0,Evening,Night,150
+1100,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,780
+1101,Air India,Kolkata,Banglore,2,10,1,4,0,0,Afternoon,Afternoon,1335
+1102,Vistara,Banglore,Delhi,0,389,12,4,4,0,Evening,Night,165
+1103,SpiceJet,Kolkata,Banglore,0,172,6,5,0,0,Morning,Morning,155
+1104,Air India,Delhi,Cochin,0,49,9,3,5,1,Afternoon,Evening,180
+1105,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Evening,345
+1106,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Evening,Morning,945
+1107,Jet Airways,Banglore,Delhi,1,5,6,3,2,0,Morning,Afternoon,370
+1108,Air India,Kolkata,Banglore,2,10,6,5,0,0,Morning,Morning,1345
+1109,Air India,Banglore,Delhi,0,389,27,4,5,1,Evening,Evening,165
+1110,IndiGo,Banglore,Delhi,1,3,1,3,4,0,Morning,Afternoon,245
+1111,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,305
+1112,IndiGo,Kolkata,Banglore,0,172,18,6,1,0,Afternoon,Evening,155
+1113,IndiGo,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,810
+1114,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,930
+1115,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Evening,300
+1116,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Morning,Afternoon,175
+1117,Air India,Delhi,Cochin,1,44,24,6,0,0,Morning,Morning,1420
+1118,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Afternoon,395
+1119,Air India,Delhi,Cochin,1,44,6,4,5,1,Morning,Morning,1420
+1120,Jet Airways,Delhi,Cochin,2,41,6,3,2,0,Evening,Night,1995
+1121,IndiGo,Kolkata,Banglore,0,172,3,4,2,0,Night,Night,155
+1122,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Night,690
+1123,Jet Airways,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,90
+1124,IndiGo,Banglore,Delhi,0,389,12,5,6,1,Evening,Night,170
+1125,Jet Airways,Delhi,Cochin,2,11,15,6,5,1,Evening,Evening,1380
+1126,SpiceJet,Kolkata,Banglore,0,172,18,6,1,0,Night,Night,140
+1127,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Morning,1495
+1128,Air India,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,165
+1129,Air India,Chennai,Kolkata,0,75,6,6,3,0,Morning,Afternoon,135
+1130,Air India,Kolkata,Banglore,2,10,9,6,6,1,Morning,Morning,1165
+1131,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Afternoon,315
+1132,Jet Airways,Delhi,Cochin,0,49,9,5,3,0,Morning,Afternoon,195
+1133,Multiple carriers,Delhi,Cochin,1,624,9,4,1,0,Morning,Night,780
+1134,IndiGo,Delhi,Cochin,1,624,27,3,2,0,Morning,Afternoon,285
+1135,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,755
+1136,Air India,Banglore,Delhi,1,6,15,3,4,0,Morning,Evening,625
+1137,Air India,Delhi,Cochin,1,624,12,6,2,0,Night,Evening,925
+1138,IndiGo,Delhi,Cochin,1,55,12,6,2,0,Afternoon,Evening,290
+1139,Air India,Mumbai,Hyderabad,0,164,18,5,5,1,Night,Night,80
+1140,Air India,Banglore,Delhi,1,5,1,3,4,0,Morning,Morning,1425
+1141,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,835
+1142,GoAir,Banglore,Delhi,0,389,9,3,5,1,Evening,Night,175
+1143,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,1225
+1144,Air India,Mumbai,Hyderabad,0,164,6,5,0,0,Night,Night,80
+1145,SpiceJet,Banglore,Delhi,0,389,15,3,4,0,Evening,Night,170
+1146,IndiGo,Mumbai,Hyderabad,0,164,27,3,2,0,Afternoon,Evening,90
+1147,SpiceJet,Mumbai,Hyderabad,0,164,1,6,5,1,Morning,Morning,90
+1148,Air India,Banglore,Delhi,0,389,1,3,4,0,Morning,Afternoon,165
+1149,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,615
+1150,IndiGo,Kolkata,Banglore,0,172,6,5,0,0,Evening,Night,155
+1151,SpiceJet,Kolkata,Banglore,0,172,24,3,6,1,Evening,Evening,150
+1152,SpiceJet,Kolkata,Banglore,0,172,12,5,6,1,Night,Night,140
+1153,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Evening,Evening,1485
+1154,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Afternoon,Night,365
+1155,SpiceJet,Mumbai,Hyderabad,0,164,1,6,5,1,Afternoon,Afternoon,90
+1156,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Night,Morning,730
+1157,Jet Airways,Mumbai,Hyderabad,0,164,1,4,0,0,Evening,Night,90
+1158,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Night,Morning,730
+1159,GoAir,Banglore,Delhi,0,389,12,6,2,0,Morning,Afternoon,170
+1160,SpiceJet,Banglore,Delhi,0,389,12,4,4,0,Night,Night,175
+1161,IndiGo,Kolkata,Banglore,0,172,27,5,0,0,Night,Morning,155
+1162,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Evening,Afternoon,1285
+1163,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,460
+1164,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,465
+1165,IndiGo,Banglore,Delhi,0,389,15,5,2,0,Afternoon,Evening,180
+1166,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,560
+1167,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Afternoon,Morning,1110
+1168,Air India,Mumbai,Hyderabad,0,164,9,6,6,1,Evening,Evening,75
+1169,IndiGo,Chennai,Kolkata,0,75,15,5,2,0,Afternoon,Afternoon,140
+1170,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Afternoon,Evening,180
+1171,IndiGo,Kolkata,Banglore,0,172,3,5,4,0,Morning,Afternoon,165
+1172,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Afternoon,1615
+1173,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,640
+1174,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Evening,1575
+1175,Air India,Kolkata,Banglore,2,11,9,5,3,0,Morning,Afternoon,1840
+1176,Air India,Delhi,Cochin,1,44,15,6,5,1,Morning,Morning,1420
+1177,Vistara,Chennai,Kolkata,0,75,9,5,3,0,Evening,Evening,140
+1178,IndiGo,Delhi,Cochin,1,55,6,6,3,0,Afternoon,Evening,290
+1179,Air India,Delhi,Cochin,1,624,3,3,6,1,Morning,Morning,1420
+1180,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Night,630
+1181,Vistara,Kolkata,Banglore,1,124,24,5,4,0,Evening,Morning,765
+1182,Jet Airways,Delhi,Cochin,2,41,9,4,1,0,Evening,Evening,1430
+1183,Jet Airways,Banglore,Delhi,0,389,18,6,1,0,Evening,Night,180
+1184,Air India,Delhi,Cochin,1,55,9,3,5,1,Evening,Morning,870
+1185,Air India,Kolkata,Banglore,2,2,18,5,5,1,Morning,Night,895
+1186,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Afternoon,1575
+1187,SpiceJet,Chennai,Kolkata,0,75,15,6,5,1,Evening,Evening,140
+1188,SpiceJet,Chennai,Kolkata,0,75,15,6,5,1,Evening,Evening,140
+1189,Jet Airways,Mumbai,Hyderabad,0,164,21,5,1,0,Night,Night,85
+1190,Air India,Delhi,Cochin,2,12,15,6,5,1,Afternoon,Evening,1800
+1191,Jet Airways,Delhi,Cochin,2,74,27,5,0,0,Morning,Evening,560
+1192,IndiGo,Kolkata,Banglore,0,172,18,3,0,0,Night,Night,160
+1193,IndiGo,Delhi,Cochin,1,44,27,3,2,0,Morning,Afternoon,310
+1194,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,455
+1195,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Night,Night,180
+1196,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Night,Afternoon,460
+1197,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Evening,Night,1630
+1198,IndiGo,Kolkata,Banglore,0,172,15,4,0,0,Afternoon,Evening,150
+1199,SpiceJet,Mumbai,Hyderabad,0,164,15,5,2,0,Afternoon,Afternoon,90
+1200,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,940
+1201,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Morning,800
+1202,IndiGo,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,500
+1203,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,660
+1204,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,465
+1205,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Morning,Evening,505
+1206,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Night,Morning,665
+1207,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Evening,1485
+1208,Vistara,Banglore,Delhi,0,389,15,6,5,1,Evening,Night,165
+1209,Jet Airways,Delhi,Cochin,2,11,15,6,5,1,Evening,Evening,1480
+1210,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Morning,Morning,175
+1211,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Afternoon,Night,425
+1212,Air India,Mumbai,Hyderabad,0,164,18,5,5,1,Evening,Evening,75
+1213,Vistara,Kolkata,Banglore,1,124,15,5,2,0,Evening,Night,1625
+1214,Jet Airways,Delhi,Cochin,2,74,6,6,3,0,Morning,Evening,810
+1215,Jet Airways,Delhi,Cochin,1,624,1,4,0,0,Evening,Evening,1530
+1216,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,930
+1217,IndiGo,Kolkata,Banglore,1,10,9,5,3,0,Evening,Night,220
+1218,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,530
+1219,Multiple carriers,Delhi,Cochin,1,85,9,5,3,0,Morning,Night,920
+1220,Air India,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,555
+1221,IndiGo,Delhi,Cochin,1,85,15,5,2,0,Morning,Night,835
+1222,SpiceJet,Kolkata,Banglore,0,172,27,4,5,1,Afternoon,Evening,150
+1223,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Night,480
+1224,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Night,720
+1225,Air India,Mumbai,Hyderabad,1,10,6,3,2,0,Evening,Morning,810
+1226,Vistara,Banglore,Delhi,0,389,3,4,2,0,Night,Night,170
+1227,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,780
+1228,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,660
+1229,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,430
+1230,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Afternoon,Evening,1695
+1231,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Evening,350
+1232,SpiceJet,Kolkata,Banglore,0,172,1,6,5,1,Afternoon,Evening,150
+1233,Jet Airways,Delhi,Cochin,2,74,6,6,3,0,Morning,Night,1375
+1234,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Night,630
+1235,Multiple carriers,Delhi,Cochin,1,624,9,4,1,0,Morning,Evening,690
+1236,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Night,1215
+1237,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Night,925
+1238,Air India,Delhi,Cochin,1,55,6,6,3,0,Evening,Night,320
+1239,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Evening,Night,480
+1240,IndiGo,Kolkata,Banglore,0,172,24,3,6,1,Night,Night,160
+1241,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,850
+1242,Vistara,Banglore,Delhi,0,389,15,3,4,0,Morning,Afternoon,160
+1243,Air India,Delhi,Cochin,2,17,1,6,5,1,Morning,Morning,1580
+1244,IndiGo,Chennai,Kolkata,0,75,1,3,4,0,Night,Night,140
+1245,Air India,Delhi,Cochin,1,55,18,5,5,1,Morning,Night,1010
+1246,Air India,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,675
+1247,SpiceJet,Kolkata,Banglore,0,172,9,5,3,0,Night,Night,140
+1248,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Night,Night,165
+1249,IndiGo,Delhi,Cochin,1,624,6,5,0,0,Afternoon,Night,570
+1250,Air India,Delhi,Cochin,2,41,12,6,2,0,Afternoon,Evening,1595
+1251,Air India,Kolkata,Banglore,2,11,15,5,2,0,Afternoon,Night,590
+1252,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,480
+1253,Jet Airways,Delhi,Cochin,0,49,3,6,0,0,Morning,Afternoon,195
+1254,Air India,Delhi,Cochin,2,6,21,5,1,0,Afternoon,Evening,1820
+1255,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Evening,Night,395
+1256,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Evening,1680
+1257,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Evening,375
+1258,Air India,Chennai,Kolkata,0,75,24,5,4,0,Morning,Afternoon,135
+1259,IndiGo,Delhi,Cochin,1,624,15,5,2,0,Evening,Night,305
+1260,Air India,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Morning,1120
+1261,Air India,Delhi,Cochin,2,41,9,3,5,1,Evening,Evening,1410
+1262,Air India,Kolkata,Banglore,2,12,15,5,2,0,Evening,Afternoon,1215
+1263,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Night,Evening,1270
+1264,Jet Airways,Banglore,Delhi,0,389,9,4,1,0,Evening,Evening,180
+1265,Jet Airways,Mumbai,Hyderabad,0,164,1,3,4,0,Evening,Night,90
+1266,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Night,Evening,1195
+1267,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Night,730
+1268,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,570
+1269,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Night,Evening,1005
+1270,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Evening,Morning,800
+1271,Air India,Delhi,Cochin,2,12,3,3,6,1,Morning,Evening,2240
+1272,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Morning,Afternoon,1595
+1273,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,480
+1274,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Night,630
+1275,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Evening,Afternoon,1010
+1276,IndiGo,Delhi,Cochin,1,85,3,3,6,1,Afternoon,Night,480
+1277,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Evening,1670
+1278,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Afternoon,490
+1279,Air India,Banglore,Delhi,2,5,9,3,5,1,Morning,Night,2345
+1280,Jet Airways,Banglore,Delhi,0,389,18,6,1,0,Evening,Evening,180
+1281,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Morning,1200
+1282,GoAir,Kolkata,Banglore,1,253,1,4,0,0,Night,Morning,495
+1283,IndiGo,Banglore,Delhi,0,389,27,5,0,0,Evening,Night,175
+1284,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,840
+1285,IndiGo,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,810
+1286,SpiceJet,Banglore,Delhi,0,389,27,6,3,0,Morning,Afternoon,170
+1287,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Evening,Evening,1425
+1288,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Night,Night,395
+1289,SpiceJet,Banglore,Delhi,0,389,3,3,6,1,Morning,Morning,170
+1290,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,780
+1291,SpiceJet,Mumbai,Hyderabad,0,164,27,5,0,0,Morning,Morning,90
+1292,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,1165
+1293,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Night,1375
+1294,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Night,450
+1295,IndiGo,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,480
+1296,Air India,Kolkata,Banglore,0,172,3,3,6,1,Evening,Night,155
+1297,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Evening,Night,450
+1298,Air India,Delhi,Cochin,0,49,3,4,2,0,Morning,Morning,170
+1299,Vistara,Banglore,Delhi,1,6,9,3,5,1,Morning,Afternoon,355
+1300,IndiGo,Mumbai,Hyderabad,0,164,3,4,2,0,Night,Night,90
+1301,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Morning,800
+1302,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Afternoon,Afternoon,1430
+1303,Air India,Kolkata,Banglore,1,124,12,5,6,1,Morning,Night,975
+1304,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,420
+1305,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Night,1125
+1306,IndiGo,Kolkata,Banglore,1,27,1,4,0,0,Afternoon,Evening,315
+1307,Air India,Delhi,Cochin,1,624,6,3,2,0,Morning,Morning,1420
+1308,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,520
+1309,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Evening,800
+1310,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,930
+1311,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Morning,Morning,1495
+1312,Air India,Kolkata,Banglore,2,7,9,6,6,1,Afternoon,Morning,765
+1313,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Evening,810
+1314,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Night,510
+1315,Vistara,Banglore,Delhi,0,389,15,6,5,1,Morning,Afternoon,170
+1316,IndiGo,Mumbai,Hyderabad,0,164,18,6,1,0,Afternoon,Evening,90
+1317,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,860
+1318,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Morning,Night,1330
+1319,Air India,Delhi,Cochin,1,624,15,6,5,1,Evening,Morning,700
+1320,Air India,Delhi,Cochin,1,44,3,6,0,0,Morning,Morning,1420
+1321,Vistara,Banglore,Delhi,0,389,12,5,6,1,Evening,Night,165
+1322,IndiGo,Delhi,Cochin,1,85,12,6,2,0,Morning,Afternoon,560
+1323,IndiGo,Kolkata,Banglore,0,172,18,4,3,0,Afternoon,Evening,150
+1324,IndiGo,Kolkata,Banglore,0,172,12,5,6,1,Afternoon,Afternoon,150
+1325,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Night,1540
+1326,IndiGo,Banglore,Delhi,0,389,6,4,5,1,Night,Night,180
+1327,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Afternoon,Night,630
+1328,IndiGo,Delhi,Cochin,1,85,9,6,6,1,Morning,Afternoon,425
+1329,IndiGo,Mumbai,Hyderabad,0,164,9,3,5,1,Evening,Night,90
+1330,Vistara,Banglore,Delhi,0,389,1,5,2,0,Evening,Evening,155
+1331,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Morning,845
+1332,Air India,Delhi,Cochin,2,41,21,5,1,0,Evening,Evening,1410
+1333,Jet Airways,Delhi,Cochin,1,624,3,4,2,0,Morning,Evening,600
+1334,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Morning,Night,825
+1335,Air India,Kolkata,Banglore,2,7,12,5,6,1,Afternoon,Morning,765
+1336,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Evening,Night,1720
+1337,Jet Airways,Delhi,Cochin,2,74,1,6,5,1,Morning,Evening,560
+1338,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Morning,Evening,685
+1339,Air India,Banglore,Delhi,2,4,12,3,1,0,Morning,Night,980
+1340,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Afternoon,Night,370
+1341,Air India,Delhi,Cochin,2,15,3,6,0,0,Night,Evening,1275
+1342,Jet Airways,Delhi,Cochin,2,5,9,6,6,1,Morning,Afternoon,1630
+1343,Jet Airways,Mumbai,Hyderabad,0,164,15,5,2,0,Evening,Night,90
+1344,Air India,Delhi,Cochin,1,44,3,4,2,0,Morning,Morning,1420
+1345,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Evening,1695
+1346,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Night,800
+1347,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Afternoon,Night,800
+1348,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Morning,Night,750
+1349,Jet Airways,Kolkata,Banglore,1,124,15,5,2,0,Morning,Morning,1450
+1350,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Evening,1215
+1351,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,455
+1352,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,440
+1353,Air India,Banglore,Delhi,0,389,24,5,4,0,Morning,Afternoon,165
+1354,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Night,Afternoon,890
+1355,Air India,Delhi,Cochin,2,5,27,5,0,0,Morning,Evening,725
+1356,SpiceJet,Chennai,Kolkata,0,75,12,6,2,0,Morning,Morning,135
+1357,Air India,Banglore,Delhi,1,107,21,3,3,0,Morning,Night,795
+1358,Jet Airways,Banglore,Delhi,0,389,24,4,2,0,Afternoon,Evening,175
+1359,Air India,Banglore,Delhi,0,389,12,6,2,0,Evening,Evening,165
+1360,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Night,Night,1525
+1361,IndiGo,Banglore,Delhi,0,389,21,6,4,0,Night,Night,165
+1362,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Morning,1155
+1363,Jet Airways,Mumbai,Hyderabad,0,164,24,6,0,0,Morning,Morning,90
+1364,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Evening,Morning,845
+1365,SpiceJet,Banglore,Delhi,0,389,1,3,4,0,Morning,Morning,170
+1366,IndiGo,Mumbai,Hyderabad,0,164,3,5,4,0,Afternoon,Afternoon,90
+1367,Air India,Delhi,Cochin,1,44,9,3,5,1,Morning,Morning,1420
+1368,Vistara,Kolkata,Banglore,1,124,9,6,6,1,Evening,Morning,765
+1369,Jet Airways,Delhi,Cochin,2,41,24,6,0,0,Evening,Evening,1430
+1370,Air India,Banglore,Delhi,2,2,3,3,6,1,Evening,Night,1795
+1371,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Afternoon,1170
+1372,Jet Airways,Mumbai,Hyderabad,0,164,1,5,2,0,Morning,Morning,90
+1373,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Night,480
+1374,IndiGo,Delhi,Cochin,2,17,21,3,3,0,Morning,Night,765
+1375,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,690
+1376,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Morning,1540
+1377,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,845
+1378,Air India,Kolkata,Banglore,1,253,9,6,6,1,Morning,Morning,1545
+1379,Air India,Delhi,Cochin,2,41,15,6,5,1,Morning,Evening,2295
+1380,Jet Airways,Delhi,Cochin,2,18,9,6,6,1,Morning,Afternoon,1620
+1381,Air India,Kolkata,Banglore,2,12,24,3,6,1,Morning,Afternoon,1845
+1382,Air Asia,Kolkata,Banglore,0,172,12,4,4,0,Morning,Afternoon,155
+1383,IndiGo,Kolkata,Banglore,1,13,1,5,2,0,Evening,Night,280
+1384,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Evening,Afternoon,1010
+1385,Jet Airways,Banglore,Delhi,0,389,27,6,3,0,Afternoon,Evening,175
+1386,Air India,Banglore,Delhi,0,389,15,5,2,0,Evening,Evening,165
+1387,Air India,Delhi,Cochin,1,55,9,6,6,1,Afternoon,Night,570
+1388,SpiceJet,Banglore,Delhi,0,389,27,4,5,1,Night,Night,175
+1389,Jet Airways,Delhi,Cochin,2,41,27,6,3,0,Afternoon,Evening,1775
+1390,IndiGo,Kolkata,Banglore,0,172,9,5,3,0,Afternoon,Evening,150
+1391,GoAir,Banglore,Delhi,0,389,9,5,3,0,Morning,Afternoon,170
+1392,Multiple carriers,Delhi,Cochin,1,85,27,3,2,0,Morning,Afternoon,385
+1393,IndiGo,Delhi,Cochin,1,55,1,6,5,1,Afternoon,Evening,290
+1394,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Afternoon,1285
+1395,Jet Airways,Banglore,Delhi,0,389,6,5,0,0,Morning,Afternoon,175
+1396,GoAir,Delhi,Cochin,1,5,21,3,3,0,Morning,Afternoon,440
+1397,IndiGo,Delhi,Cochin,1,624,6,6,3,0,Night,Night,965
+1398,IndiGo,Mumbai,Hyderabad,0,164,3,6,0,0,Afternoon,Evening,90
+1399,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Night,520
+1400,Air Asia,Kolkata,Banglore,2,11,15,4,0,0,Afternoon,Night,500
+1401,SpiceJet,Mumbai,Hyderabad,0,164,3,5,4,0,Night,Night,90
+1402,IndiGo,Kolkata,Banglore,0,172,9,6,6,1,Night,Morning,155
+1403,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,570
+1404,Multiple carriers,Delhi,Cochin,1,624,9,4,1,0,Morning,Evening,600
+1405,Jet Airways,Banglore,Delhi,0,389,27,5,0,0,Evening,Night,180
+1406,IndiGo,Delhi,Cochin,0,49,27,5,0,0,Morning,Morning,195
+1407,IndiGo,Mumbai,Hyderabad,0,164,18,5,5,1,Night,Night,90
+1408,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Evening,360
+1409,SpiceJet,Chennai,Kolkata,0,75,12,5,6,1,Morning,Morning,135
+1410,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Night,1125
+1411,SpiceJet,Banglore,Delhi,0,389,6,6,3,0,Morning,Afternoon,170
+1412,Air India,Delhi,Cochin,2,15,15,6,5,1,Morning,Evening,500
+1413,Jet Airways,Banglore,Delhi,0,389,15,5,2,0,Morning,Morning,180
+1414,Multiple carriers,Delhi,Cochin,1,624,24,5,4,0,Afternoon,Evening,385
+1415,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,660
+1416,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,655
+1417,Vistara,Banglore,Delhi,0,389,1,3,4,0,Afternoon,Evening,155
+1418,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,450
+1419,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Night,510
+1420,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Night,570
+1421,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Night,510
+1422,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,660
+1423,IndiGo,Kolkata,Banglore,0,172,18,3,0,0,Afternoon,Afternoon,155
+1424,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Morning,Evening,740
+1425,Air Asia,Delhi,Cochin,1,55,9,5,3,0,Morning,Night,870
+1426,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,650
+1427,Air India,Mumbai,Hyderabad,0,164,27,6,3,0,Morning,Morning,80
+1428,Vistara,Banglore,Delhi,0,389,18,4,3,0,Morning,Afternoon,170
+1429,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Evening,Night,170
+1430,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Evening,440
+1431,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,660
+1432,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Evening,1440
+1433,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Night,1660
+1434,Jet Airways,Delhi,Cochin,2,11,9,6,6,1,Evening,Night,505
+1435,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Evening,Night,390
+1436,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Morning,800
+1437,IndiGo,Kolkata,Banglore,1,13,24,5,4,0,Evening,Night,280
+1438,GoAir,Banglore,Delhi,0,389,18,3,0,0,Morning,Morning,175
+1439,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Night,490
+1440,Air Asia,Kolkata,Banglore,0,172,3,3,6,1,Morning,Afternoon,155
+1441,SpiceJet,Kolkata,Banglore,0,172,6,4,5,1,Morning,Morning,155
+1442,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Evening,Night,480
+1443,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Night,585
+1444,IndiGo,Banglore,Delhi,0,389,24,5,4,0,Night,Night,175
+1445,IndiGo,Kolkata,Banglore,0,172,1,3,4,0,Morning,Morning,170
+1446,IndiGo,Kolkata,Banglore,0,172,1,4,0,0,Night,Night,155
+1447,SpiceJet,Banglore,Delhi,0,389,18,4,3,0,Morning,Afternoon,170
+1448,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Night,490
+1449,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Evening,740
+1450,SpiceJet,Delhi,Cochin,1,44,27,6,3,0,Afternoon,Night,380
+1451,Air India,Delhi,Cochin,2,41,1,6,5,1,Afternoon,Evening,1595
+1452,IndiGo,Banglore,Delhi,0,389,6,5,0,0,Evening,Night,175
+1453,SpiceJet,Chennai,Kolkata,0,75,12,6,2,0,Morning,Afternoon,135
+1454,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Night,Night,395
+1455,IndiGo,Delhi,Cochin,1,85,12,6,2,0,Morning,Night,940
+1456,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Evening,Night,1745
+1457,Air India,Kolkata,Banglore,2,2,6,6,3,0,Morning,Night,895
+1458,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Night,585
+1459,Air India,Delhi,Cochin,2,15,15,6,5,1,Night,Evening,1275
+1460,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,795
+1461,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Night,925
+1462,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,925
+1463,IndiGo,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,845
+1464,IndiGo,Banglore,Delhi,0,389,6,5,0,0,Night,Morning,170
+1465,IndiGo,Kolkata,Banglore,0,172,6,3,2,0,Morning,Afternoon,165
+1466,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Morning,Afternoon,170
+1467,Jet Airways,Banglore,Delhi,0,389,15,4,0,0,Morning,Morning,165
+1468,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,720
+1469,Jet Airways,Delhi,Cochin,2,7,9,3,5,1,Morning,Evening,1925
+1470,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Evening,Evening,1375
+1471,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Morning,890
+1472,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Evening,Morning,745
+1473,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,535
+1474,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Evening,810
+1475,IndiGo,Mumbai,Hyderabad,0,164,9,5,3,0,Morning,Morning,90
+1476,Air Asia,Kolkata,Banglore,0,172,6,5,0,0,Morning,Afternoon,155
+1477,GoAir,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,175
+1478,Air India,Delhi,Cochin,2,41,15,5,2,0,Evening,Evening,1410
+1479,Air India,Delhi,Cochin,2,4,27,6,3,0,Afternoon,Morning,1100
+1480,Vistara,Kolkata,Banglore,1,124,9,6,6,1,Evening,Night,1595
+1481,IndiGo,Delhi,Cochin,1,55,15,4,0,0,Night,Morning,345
+1482,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Evening,Afternoon,1025
+1483,Air India,Kolkata,Banglore,2,10,9,5,3,0,Morning,Night,805
+1484,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Afternoon,475
+1485,IndiGo,Kolkata,Banglore,0,172,15,3,4,0,Afternoon,Evening,155
+1486,SpiceJet,Kolkata,Banglore,0,172,1,4,0,0,Evening,Evening,150
+1487,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,510
+1488,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Evening,1680
+1489,Air India,Delhi,Cochin,1,55,24,6,0,0,Evening,Morning,955
+1490,Air India,Delhi,Cochin,2,15,9,3,5,1,Morning,Evening,1940
+1491,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Night,455
+1492,Multiple carriers,Delhi,Cochin,1,85,6,6,3,0,Morning,Afternoon,540
+1493,Air India,Kolkata,Banglore,0,172,6,6,3,0,Afternoon,Afternoon,150
+1494,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,900
+1495,IndiGo,Mumbai,Hyderabad,0,164,15,6,5,1,Night,Night,90
+1496,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,615
+1497,Vistara,Chennai,Kolkata,0,75,9,6,6,1,Morning,Morning,135
+1498,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Evening,Afternoon,1045
+1499,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Afternoon,Night,875
+1500,Air India,Banglore,Delhi,2,2,1,3,4,0,Morning,Morning,1545
+1501,Air India,Kolkata,Banglore,2,10,24,5,4,0,Morning,Morning,1345
+1502,IndiGo,Banglore,Delhi,0,389,6,6,3,0,Morning,Morning,165
+1503,Air India,Delhi,Cochin,1,44,3,3,6,1,Evening,Morning,765
+1504,Air India,Delhi,Cochin,2,15,15,6,5,1,Night,Evening,1275
+1505,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Evening,705
+1506,Air Asia,Kolkata,Banglore,0,172,12,6,2,0,Night,Night,150
+1507,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,750
+1508,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Night,950
+1509,Air India,Kolkata,Banglore,0,172,18,6,1,0,Evening,Night,155
+1510,IndiGo,Delhi,Cochin,1,85,1,6,5,1,Morning,Afternoon,455
+1511,Air India,Delhi,Cochin,2,15,6,3,2,0,Morning,Evening,2185
+1512,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Night,1345
+1513,Air Asia,Delhi,Cochin,1,55,12,6,2,0,Afternoon,Morning,865
+1514,SpiceJet,Banglore,Delhi,0,389,15,6,5,1,Morning,Afternoon,170
+1515,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,450
+1516,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,570
+1517,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Night,Evening,1360
+1518,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Afternoon,Night,365
+1519,IndiGo,Kolkata,Banglore,1,27,9,5,3,0,Evening,Night,265
+1520,IndiGo,Banglore,Delhi,0,389,18,4,3,0,Morning,Morning,175
+1521,Air Asia,Banglore,Delhi,0,389,27,6,3,0,Night,Morning,170
+1522,SpiceJet,Kolkata,Banglore,0,172,15,5,2,0,Night,Night,140
+1523,SpiceJet,Kolkata,Banglore,0,172,24,3,6,1,Morning,Morning,160
+1524,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Evening,1680
+1525,Jet Airways,Kolkata,Banglore,1,124,1,5,2,0,Morning,Night,690
+1526,Jet Airways,Banglore,Delhi,0,389,27,5,0,0,Evening,Evening,180
+1527,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Evening,Evening,1385
+1528,IndiGo,Banglore,Delhi,0,389,1,5,2,0,Night,Night,180
+1529,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Evening,1680
+1530,GoAir,Banglore,Delhi,0,389,21,4,6,1,Evening,Night,165
+1531,SpiceJet,Banglore,Delhi,0,389,18,5,5,1,Night,Night,175
+1532,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Evening,585
+1533,Air Asia,Kolkata,Banglore,0,172,27,6,3,0,Morning,Afternoon,155
+1534,IndiGo,Delhi,Cochin,1,55,18,5,5,1,Evening,Night,320
+1535,IndiGo,Banglore,Delhi,0,389,21,4,6,1,Morning,Morning,175
+1536,Air India,Kolkata,Banglore,2,10,21,5,1,0,Afternoon,Afternoon,1185
+1537,Jet Airways,Delhi,Cochin,2,12,6,6,3,0,Morning,Night,1300
+1538,IndiGo,Delhi,Cochin,1,85,6,3,2,0,Night,Afternoon,425
+1539,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Morning,Night,1295
+1540,Jet Airways,Banglore,Delhi,0,389,24,6,0,0,Morning,Morning,180
+1541,Air India,Banglore,Delhi,0,389,3,5,4,0,Evening,Evening,165
+1542,Air India,Delhi,Cochin,2,74,27,5,0,0,Evening,Evening,1470
+1543,SpiceJet,Delhi,Cochin,1,7,27,5,0,0,Morning,Afternoon,270
+1544,IndiGo,Banglore,Delhi,0,389,15,3,4,0,Morning,Morning,165
+1545,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Evening,Afternoon,1025
+1546,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,520
+1547,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,840
+1548,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,625
+1549,Air Asia,Delhi,Cochin,1,55,24,6,0,0,Morning,Afternoon,470
+1550,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,695
+1551,Jet Airways,Mumbai,Hyderabad,0,164,3,3,6,1,Morning,Morning,90
+1552,Multiple carriers,Delhi,Cochin,1,85,27,3,2,0,Morning,Afternoon,540
+1553,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Evening,Evening,1550
+1554,Air India,Delhi,Cochin,2,12,15,5,2,0,Morning,Evening,2240
+1555,Air India,Kolkata,Banglore,2,12,24,3,6,1,Evening,Afternoon,1035
+1556,Multiple carriers,Delhi,Cochin,2,18,3,6,0,0,Afternoon,Night,625
+1557,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,570
+1558,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Morning,Afternoon,330
+1559,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Night,Morning,665
+1560,Jet Airways,Delhi,Cochin,2,41,9,5,3,0,Evening,Afternoon,1045
+1561,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Afternoon,395
+1562,IndiGo,Banglore,Delhi,0,389,1,4,0,0,Evening,Night,175
+1563,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Evening,Morning,735
+1564,Air India,Delhi,Cochin,1,44,27,5,0,0,Afternoon,Morning,1255
+1565,Air India,Kolkata,Banglore,1,5,12,6,2,0,Afternoon,Night,1700
+1566,Jet Airways,Mumbai,Hyderabad,0,164,9,5,3,0,Evening,Night,90
+1567,Air India,Delhi,Cochin,2,74,9,6,6,1,Afternoon,Evening,435
+1568,GoAir,Banglore,Delhi,0,389,9,3,5,1,Morning,Morning,175
+1569,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Night,Evening,845
+1570,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Morning,1090
+1571,SpiceJet,Kolkata,Banglore,0,172,3,5,4,0,Night,Night,140
+1572,SpiceJet,Mumbai,Hyderabad,0,164,27,3,2,0,Afternoon,Afternoon,80
+1573,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Morning,Afternoon,1655
+1574,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Evening,Night,465
+1575,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Night,760
+1576,IndiGo,Delhi,Cochin,1,44,18,5,5,1,Morning,Afternoon,315
+1577,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Afternoon,Morning,995
+1578,IndiGo,Delhi,Cochin,1,55,27,6,3,0,Night,Morning,345
+1579,Air India,Banglore,Delhi,2,5,9,3,5,1,Evening,Night,1830
+1580,Jet Airways,Mumbai,Hyderabad,0,164,15,6,5,1,Night,Night,85
+1581,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Night,Morning,665
+1582,Jet Airways,Delhi,Cochin,2,74,15,6,5,1,Morning,Night,1125
+1583,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Evening,Evening,1430
+1584,Jet Airways,Kolkata,Banglore,1,124,12,6,2,0,Evening,Afternoon,1080
+1585,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Night,1685
+1586,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Morning,1655
+1587,SpiceJet,Kolkata,Banglore,0,172,18,3,0,0,Morning,Morning,150
+1588,SpiceJet,Mumbai,Hyderabad,0,164,24,6,0,0,Morning,Morning,90
+1589,SpiceJet,Chennai,Kolkata,0,75,18,3,0,0,Evening,Evening,140
+1590,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Afternoon,Afternoon,180
+1591,Vistara,Banglore,Delhi,0,389,9,3,5,1,Night,Night,175
+1592,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Evening,400
+1593,Jet Airways,Delhi,Cochin,2,6,18,5,5,1,Morning,Evening,440
+1594,IndiGo,Banglore,Delhi,0,389,1,4,0,0,Night,Night,170
+1595,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Evening,1620
+1596,Jet Airways,Delhi,Cochin,2,7,21,3,3,0,Evening,Evening,1465
+1597,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,790
+1598,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,675
+1599,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Morning,1055
+1600,SpiceJet,Kolkata,Banglore,0,172,6,6,3,0,Morning,Morning,155
+1601,IndiGo,Kolkata,Banglore,0,172,1,4,0,0,Afternoon,Evening,150
+1602,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Afternoon,1615
+1603,Jet Airways,Delhi,Cochin,2,18,6,6,3,0,Morning,Night,1130
+1604,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Evening,Night,390
+1605,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Evening,535
+1606,IndiGo,Delhi,Cochin,1,55,27,6,3,0,Evening,Night,320
+1607,Air Asia,Delhi,Cochin,1,55,27,3,2,0,Morning,Night,860
+1608,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Night,780
+1609,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,650
+1610,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Afternoon,1000
+1611,Jet Airways,Banglore,Delhi,0,389,6,5,0,0,Evening,Night,185
+1612,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Evening,Night,465
+1613,SpiceJet,Kolkata,Banglore,0,172,15,6,5,1,Evening,Evening,150
+1614,IndiGo,Delhi,Cochin,2,17,3,3,6,1,Morning,Night,880
+1615,IndiGo,Mumbai,Hyderabad,0,164,24,3,6,1,Night,Night,85
+1616,SpiceJet,Banglore,Delhi,0,389,21,4,6,1,Night,Night,175
+1617,GoAir,Banglore,Delhi,0,389,18,3,0,0,Evening,Night,175
+1618,IndiGo,Kolkata,Banglore,1,27,15,5,2,0,Afternoon,Evening,315
+1619,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,830
+1620,Air India,Kolkata,Banglore,1,253,24,3,6,1,Morning,Morning,1545
+1621,GoAir,Banglore,Delhi,0,389,9,3,5,1,Morning,Afternoon,175
+1622,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Night,Morning,610
+1623,Jet Airways,Delhi,Cochin,2,74,9,6,6,1,Morning,Night,1125
+1624,SpiceJet,Mumbai,Hyderabad,0,164,3,6,0,0,Morning,Morning,90
+1625,IndiGo,Chennai,Kolkata,0,75,21,5,1,0,Afternoon,Evening,140
+1626,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Evening,Night,520
+1627,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Evening,Evening,180
+1628,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Night,1720
+1629,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Evening,Night,1630
+1630,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Afternoon,1285
+1631,Air India,Delhi,Cochin,2,17,3,3,6,1,Afternoon,Morning,1220
+1632,SpiceJet,Banglore,Delhi,0,389,1,3,4,0,Evening,Night,170
+1633,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,690
+1634,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,720
+1635,Air India,Delhi,Cochin,1,44,9,5,3,0,Morning,Morning,1420
+1636,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Afternoon,Night,925
+1637,Multiple carriers,Delhi,Cochin,1,624,24,5,4,0,Morning,Evening,630
+1638,IndiGo,Kolkata,Banglore,0,172,3,4,2,0,Night,Night,160
+1639,Air India,Delhi,Cochin,2,41,6,6,3,0,Morning,Morning,1600
+1640,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Afternoon,Morning,900
+1641,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Evening,Night,175
+1642,IndiGo,Banglore,Delhi,0,389,15,6,5,1,Afternoon,Evening,180
+1643,Jet Airways,Delhi,Cochin,1,624,27,6,3,0,Evening,Night,450
+1644,SpiceJet,Chennai,Kolkata,0,75,12,6,2,0,Morning,Morning,135
+1645,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Evening,Evening,1325
+1646,SpiceJet,Delhi,Cochin,1,55,15,6,5,1,Evening,Night,295
+1647,Jet Airways,Banglore,Delhi,0,389,6,5,0,0,Evening,Night,180
+1648,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Night,1720
+1649,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Evening,1695
+1650,Air India,Kolkata,Banglore,1,27,3,4,2,0,Evening,Night,580
+1651,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Morning,Morning,170
+1652,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Night,570
+1653,IndiGo,Banglore,Delhi,0,389,27,4,5,1,Morning,Morning,170
+1654,Jet Airways,Banglore,Delhi,0,389,15,4,0,0,Morning,Morning,180
+1655,Jet Airways,Delhi,Cochin,2,5,9,6,6,1,Morning,Afternoon,1490
+1656,IndiGo,Banglore,Delhi,0,389,21,3,3,0,Night,Night,170
+1657,SpiceJet,Kolkata,Banglore,0,172,3,4,2,0,Morning,Morning,145
+1658,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Afternoon,Morning,730
+1659,Jet Airways,Kolkata,Banglore,1,124,15,5,2,0,Evening,Night,1480
+1660,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Evening,Evening,1475
+1661,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,840
+1662,Air India,Delhi,Cochin,2,12,6,3,2,0,Night,Evening,1305
+1663,Jet Airways,Mumbai,Hyderabad,0,164,9,6,6,1,Morning,Morning,90
+1664,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,690
+1665,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,645
+1666,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Night,Night,180
+1667,SpiceJet,Banglore,Delhi,0,389,9,3,5,1,Morning,Afternoon,175
+1668,Jet Airways,Delhi,Cochin,2,7,3,6,0,0,Evening,Night,600
+1669,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,395
+1670,IndiGo,Mumbai,Hyderabad,0,164,27,6,3,0,Morning,Morning,90
+1671,Air India,Banglore,Delhi,0,389,27,4,5,1,Morning,Morning,165
+1672,Jet Airways,Delhi,Cochin,2,7,21,3,3,0,Morning,Night,1060
+1673,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Afternoon,475
+1674,IndiGo,Kolkata,Banglore,0,172,21,6,4,0,Afternoon,Evening,155
+1675,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,570
+1676,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Evening,375
+1677,Jet Airways,Delhi,Cochin,2,12,12,6,2,0,Morning,Night,1300
+1678,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Afternoon,1220
+1679,Vistara,Delhi,Cochin,0,49,15,5,2,0,Afternoon,Evening,190
+1680,Vistara,Banglore,Delhi,0,389,6,4,5,1,Night,Night,170
+1681,Air Asia,Kolkata,Banglore,0,172,9,6,6,1,Night,Night,150
+1682,Air India,Kolkata,Banglore,2,7,24,3,6,1,Morning,Morning,1210
+1683,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Morning,Evening,590
+1684,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Evening,Evening,1640
+1685,GoAir,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Evening,310
+1686,Air India,Delhi,Cochin,2,9,6,3,2,0,Morning,Evening,2240
+1687,Air India,Banglore,Delhi,1,6,18,3,0,0,Morning,Afternoon,240
+1688,Jet Airways,Banglore,Delhi,0,389,1,5,2,0,Morning,Morning,165
+1689,Air India,Delhi,Cochin,3,4,6,5,0,0,Morning,Evening,2280
+1690,Jet Airways,Banglore,Delhi,1,107,3,3,6,1,Morning,Morning,1400
+1691,Jet Airways,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,85
+1692,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,850
+1693,Jet Airways,Mumbai,Hyderabad,0,164,1,3,4,0,Night,Night,90
+1694,Air India,Delhi,Cochin,2,15,15,5,2,0,Morning,Evening,500
+1695,IndiGo,Kolkata,Banglore,1,2,21,5,1,0,Evening,Night,325
+1696,SpiceJet,Mumbai,Hyderabad,0,164,27,6,3,0,Night,Night,90
+1697,Vistara,Banglore,Delhi,0,389,3,5,4,0,Evening,Night,165
+1698,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Night,490
+1699,Air Asia,Kolkata,Banglore,0,172,21,3,3,0,Evening,Night,150
+1700,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Afternoon,Evening,375
+1701,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,910
+1702,GoAir,Banglore,Delhi,0,389,1,4,0,0,Morning,Afternoon,170
+1703,Jet Airways,Kolkata,Banglore,1,124,15,5,2,0,Evening,Night,1540
+1704,IndiGo,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,975
+1705,Jet Airways,Mumbai,Hyderabad,0,164,27,3,2,0,Morning,Morning,90
+1706,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Morning,1655
+1707,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Morning,Morning,1545
+1708,Jet Airways,Delhi,Cochin,2,74,15,6,5,1,Morning,Evening,810
+1709,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,740
+1710,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Afternoon,Night,750
+1711,Air India,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,615
+1712,Air India,Mumbai,Hyderabad,2,2,6,3,2,0,Morning,Afternoon,1660
+1713,IndiGo,Delhi,Cochin,1,55,21,5,1,0,Afternoon,Evening,290
+1714,Jet Airways,Banglore,Delhi,0,389,3,4,2,0,Afternoon,Evening,175
+1715,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Morning,Night,840
+1716,Vistara,Kolkata,Banglore,1,124,6,5,0,0,Evening,Morning,765
+1717,SpiceJet,Mumbai,Hyderabad,0,164,24,6,0,0,Morning,Morning,90
+1718,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Evening,Afternoon,1220
+1719,Jet Airways,Banglore,Delhi,0,389,24,5,4,0,Evening,Night,185
+1720,IndiGo,Chennai,Kolkata,0,75,6,5,0,0,Evening,Night,140
+1721,SpiceJet,Mumbai,Hyderabad,0,164,12,6,2,0,Night,Night,90
+1722,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Night,Morning,775
+1723,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Afternoon,390
+1724,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Morning,Evening,705
+1725,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Morning,Afternoon,475
+1726,IndiGo,Delhi,Cochin,1,624,9,3,5,1,Afternoon,Night,360
+1727,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Evening,Night,485
+1728,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Evening,Evening,1520
+1729,IndiGo,Delhi,Cochin,1,85,12,6,2,0,Morning,Afternoon,425
+1730,Vistara,Delhi,Cochin,0,49,9,5,3,0,Morning,Morning,190
+1731,Air India,Delhi,Cochin,2,74,15,6,5,1,Afternoon,Evening,435
+1732,IndiGo,Mumbai,Hyderabad,0,164,15,6,5,1,Evening,Night,95
+1733,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Night,Afternoon,1150
+1734,Vistara,Kolkata,Banglore,1,124,6,5,0,0,Morning,Morning,1655
+1735,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Evening,300
+1736,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,305
+1737,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Afternoon,1295
+1738,Air India,Delhi,Cochin,2,6,9,3,5,1,Afternoon,Evening,1820
+1739,IndiGo,Mumbai,Hyderabad,0,164,21,6,4,0,Afternoon,Afternoon,90
+1740,Air India,Kolkata,Banglore,1,253,6,5,0,0,Morning,Morning,1545
+1741,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Afternoon,Night,510
+1742,Air Asia,Delhi,Cochin,1,55,27,5,0,0,Evening,Morning,590
+1743,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Afternoon,Evening,375
+1744,Air India,Kolkata,Banglore,2,10,9,6,6,1,Morning,Morning,1385
+1745,SpiceJet,Mumbai,Hyderabad,0,164,24,6,0,0,Night,Night,90
+1746,IndiGo,Delhi,Cochin,0,49,6,6,3,0,Afternoon,Evening,195
+1747,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Morning,990
+1748,IndiGo,Kolkata,Banglore,1,27,18,5,5,1,Afternoon,Evening,315
+1749,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Evening,Evening,1430
+1750,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,795
+1751,Vistara,Kolkata,Banglore,1,124,15,5,2,0,Morning,Morning,1555
+1752,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,705
+1753,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Night,Evening,1195
+1754,Air Asia,Banglore,Delhi,0,389,18,6,1,0,Night,Morning,170
+1755,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,630
+1756,Air India,Kolkata,Banglore,2,2,21,5,1,0,Afternoon,Morning,1105
+1757,Jet Airways,Mumbai,Hyderabad,0,164,3,5,4,0,Night,Night,85
+1758,GoAir,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,540
+1759,Air India,Banglore,Delhi,1,3,3,3,6,1,Morning,Morning,1675
+1760,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Afternoon,330
+1761,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,575
+1762,Multiple carriers,Delhi,Cochin,1,85,21,3,3,0,Morning,Night,755
+1763,GoAir,Delhi,Cochin,1,5,15,5,2,0,Morning,Afternoon,370
+1764,Jet Airways,Delhi,Cochin,2,74,18,5,5,1,Morning,Afternoon,1615
+1765,Jet Airways,Banglore,Delhi,0,389,18,4,3,0,Evening,Night,180
+1766,IndiGo,Kolkata,Banglore,0,172,3,4,2,0,Afternoon,Evening,155
+1767,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Morning,Morning,1655
+1768,Jet Airways,Mumbai,Hyderabad,0,164,3,5,4,0,Evening,Night,90
+1769,IndiGo,Banglore,Delhi,0,389,15,5,2,0,Evening,Night,175
+1770,IndiGo,Delhi,Cochin,1,624,1,5,2,0,Morning,Night,845
+1771,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Night,490
+1772,Vistara,Delhi,Cochin,0,49,18,6,1,0,Afternoon,Evening,190
+1773,SpiceJet,Banglore,Delhi,0,389,6,4,5,1,Morning,Morning,160
+1774,Air India,Kolkata,Banglore,0,172,24,6,0,0,Evening,Night,155
+1775,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Evening,Afternoon,1100
+1776,IndiGo,Kolkata,Banglore,1,27,24,5,4,0,Afternoon,Evening,315
+1777,Air Asia,Delhi,Cochin,1,55,24,5,4,0,Evening,Morning,625
+1778,IndiGo,Kolkata,Banglore,0,172,3,4,2,0,Evening,Night,155
+1779,Jet Airways,Banglore,Delhi,0,389,27,4,5,1,Evening,Night,185
+1780,IndiGo,Mumbai,Hyderabad,0,164,6,6,3,0,Night,Night,90
+1781,Air India,Delhi,Cochin,2,12,12,6,2,0,Morning,Evening,2240
+1782,Jet Airways,Banglore,Delhi,0,389,12,6,2,0,Morning,Afternoon,175
+1783,Air India,Banglore,Delhi,2,4,12,3,1,0,Morning,Night,980
+1784,SpiceJet,Mumbai,Hyderabad,0,164,3,3,6,1,Morning,Morning,80
+1785,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Evening,Evening,1450
+1786,SpiceJet,Kolkata,Banglore,0,172,18,3,0,0,Morning,Morning,150
+1787,Vistara,Delhi,Cochin,0,49,3,6,0,0,Morning,Morning,190
+1788,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,660
+1789,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Evening,Night,390
+1790,Air Asia,Kolkata,Banglore,0,172,24,4,2,0,Night,Night,150
+1791,IndiGo,Kolkata,Banglore,0,172,27,5,0,0,Afternoon,Evening,155
+1792,Jet Airways,Delhi,Cochin,2,41,24,6,0,0,Afternoon,Evening,1775
+1793,IndiGo,Delhi,Cochin,1,85,9,5,3,0,Morning,Afternoon,665
+1794,Vistara,Banglore,Delhi,0,389,3,3,6,1,Afternoon,Afternoon,160
+1795,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Evening,345
+1796,IndiGo,Banglore,Delhi,0,389,24,5,4,0,Morning,Morning,165
+1797,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Night,745
+1798,Jet Airways,Delhi,Cochin,2,74,12,6,2,0,Morning,Night,1125
+1799,SpiceJet,Kolkata,Banglore,1,13,15,5,2,0,Afternoon,Evening,315
+1800,SpiceJet,Mumbai,Hyderabad,0,164,9,6,6,1,Afternoon,Afternoon,90
+1801,IndiGo,Banglore,Delhi,0,389,18,6,1,0,Morning,Morning,175
+1802,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Afternoon,450
+1803,Jet Airways,Mumbai,Hyderabad,0,164,27,5,0,0,Evening,Night,90
+1804,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,780
+1805,Air India,Kolkata,Banglore,2,10,1,4,0,0,Morning,Night,955
+1806,Jet Airways,Delhi,Cochin,2,74,3,6,0,0,Morning,Afternoon,1615
+1807,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Morning,1545
+1808,SpiceJet,Chennai,Kolkata,0,75,15,5,2,0,Morning,Morning,135
+1809,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,615
+1810,IndiGo,Delhi,Cochin,1,85,9,6,6,1,Morning,Afternoon,455
+1811,Air India,Banglore,Delhi,1,2,15,3,4,0,Morning,Night,1015
+1812,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,570
+1813,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Morning,Afternoon,1655
+1814,IndiGo,Kolkata,Banglore,1,27,15,5,2,0,Evening,Night,265
+1815,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Afternoon,1035
+1816,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,540
+1817,Air India,Delhi,Cochin,2,12,27,6,3,0,Evening,Evening,1560
+1818,IndiGo,Delhi,Cochin,1,6,21,3,3,0,Morning,Morning,275
+1819,Jet Airways,Banglore,Delhi,0,389,3,3,6,1,Evening,Night,160
+1820,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Night,Night,165
+1821,SpiceJet,Chennai,Kolkata,0,75,6,6,3,0,Evening,Evening,140
+1822,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,465
+1823,Jet Airways,Banglore,Delhi,0,389,9,4,1,0,Evening,Night,185
+1824,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Evening,385
+1825,Air India,Kolkata,Banglore,2,11,15,5,2,0,Morning,Night,1045
+1826,IndiGo,Delhi,Cochin,0,49,15,3,4,0,Night,Night,195
+1827,Air Asia,Banglore,Delhi,0,389,24,4,2,0,Night,Night,170
+1828,Vistara,Banglore,Delhi,0,389,21,4,6,1,Night,Night,170
+1829,Air Asia,Kolkata,Banglore,1,124,24,5,4,0,Night,Morning,720
+1830,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Afternoon,Night,630
+1831,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Morning,Evening,590
+1832,Air India,Banglore,Delhi,0,389,9,4,1,0,Morning,Afternoon,165
+1833,Air Asia,Banglore,Delhi,0,389,9,4,1,0,Morning,Afternoon,165
+1834,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Morning,830
+1835,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,510
+1836,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Morning,Night,900
+1837,IndiGo,Chennai,Kolkata,0,75,1,5,2,0,Night,Night,140
+1838,Air India,Banglore,Delhi,1,2,3,3,6,1,Morning,Night,905
+1839,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Evening,530
+1840,Jet Airways,Kolkata,Banglore,1,5,18,5,5,1,Morning,Evening,345
+1841,Air India,Delhi,Cochin,1,624,24,6,0,0,Evening,Morning,700
+1842,Vistara,Banglore,Delhi,1,6,21,3,3,0,Morning,Morning,1665
+1843,IndiGo,Banglore,Delhi,0,389,15,3,4,0,Night,Night,165
+1844,Air Asia,Kolkata,Banglore,1,124,9,5,3,0,Morning,Evening,710
+1845,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Evening,Night,1580
+1846,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Night,Morning,695
+1847,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Night,365
+1848,Multiple carriers,Delhi,Cochin,1,624,24,5,4,0,Morning,Evening,615
+1849,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Evening,Evening,1365
+1850,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Afternoon,Night,630
+1851,Air India,Delhi,Cochin,2,15,9,6,6,1,Morning,Morning,1245
+1852,Air India,Mumbai,Hyderabad,2,2,12,3,1,0,Morning,Morning,1410
+1853,SpiceJet,Kolkata,Banglore,0,172,9,3,5,1,Afternoon,Evening,145
+1854,Jet Airways,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,180
+1855,Air Asia,Kolkata,Banglore,0,172,1,3,4,0,Night,Night,150
+1856,Air India,Mumbai,Hyderabad,0,164,24,6,0,0,Afternoon,Afternoon,90
+1857,IndiGo,Mumbai,Hyderabad,0,164,24,3,6,1,Afternoon,Afternoon,85
+1858,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Night,660
+1859,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,675
+1860,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Morning,800
+1861,Air India,Banglore,Delhi,2,1,1,3,4,0,Morning,Morning,1430
+1862,Jet Airways,Banglore,Delhi,0,389,18,6,1,0,Afternoon,Evening,175
+1863,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Evening,740
+1864,Air India,Banglore,Delhi,0,389,3,3,6,1,Evening,Evening,165
+1865,SpiceJet,Chennai,Kolkata,0,75,12,6,2,0,Evening,Evening,140
+1866,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,900
+1867,Jet Airways,Kolkata,Banglore,1,124,9,5,3,0,Evening,Morning,800
+1868,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Afternoon,950
+1869,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Evening,Evening,1415
+1870,Vistara,Banglore,Delhi,0,389,24,4,2,0,Night,Night,170
+1871,IndiGo,Banglore,Delhi,1,6,3,3,6,1,Afternoon,Night,295
+1872,IndiGo,Banglore,Delhi,0,389,3,6,0,0,Evening,Night,170
+1873,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Afternoon,Evening,175
+1874,Jet Airways,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,180
+1875,GoAir,Banglore,Delhi,0,389,9,5,3,0,Evening,Night,165
+1876,Air India,Kolkata,Banglore,2,12,1,4,0,0,Morning,Night,1100
+1877,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,485
+1878,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,520
+1879,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Evening,560
+1880,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Night,Morning,775
+1881,Air Asia,Banglore,Delhi,0,389,3,4,2,0,Morning,Afternoon,165
+1882,SpiceJet,Mumbai,Hyderabad,0,164,3,5,4,0,Morning,Morning,90
+1883,IndiGo,Mumbai,Hyderabad,0,164,3,4,2,0,Morning,Morning,90
+1884,Vistara,Delhi,Cochin,0,49,15,6,5,1,Morning,Morning,190
+1885,IndiGo,Mumbai,Hyderabad,0,164,27,5,0,0,Evening,Evening,90
+1886,IndiGo,Delhi,Cochin,1,85,3,3,6,1,Morning,Afternoon,515
+1887,IndiGo,Mumbai,Hyderabad,0,164,9,6,6,1,Evening,Night,95
+1888,Air India,Kolkata,Banglore,2,10,9,5,3,0,Morning,Night,955
+1889,Air India,Kolkata,Banglore,2,1,6,5,0,0,Morning,Morning,1505
+1890,Air India,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,735
+1891,Air India,Kolkata,Banglore,2,2,9,6,6,1,Morning,Morning,1440
+1892,Jet Airways,Banglore,Delhi,1,107,3,3,6,1,Morning,Night,1140
+1893,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,845
+1894,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Morning,Afternoon,1595
+1895,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,390
+1896,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,930
+1897,Jet Airways,Delhi,Cochin,2,18,15,6,5,1,Night,Evening,1295
+1898,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Afternoon,Night,480
+1899,Jet Airways,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,600
+1900,SpiceJet,Kolkata,Banglore,0,172,15,4,0,0,Morning,Morning,145
+1901,IndiGo,Kolkata,Banglore,1,13,15,4,0,0,Morning,Afternoon,290
+1902,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Night,Afternoon,825
+1903,Air India,Delhi,Cochin,2,74,27,3,2,0,Afternoon,Morning,1180
+1904,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Afternoon,330
+1905,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Night,390
+1906,Air Asia,Banglore,Delhi,0,389,1,6,5,1,Night,Morning,170
+1907,SpiceJet,Banglore,Delhi,0,389,12,5,6,1,Night,Night,175
+1908,SpiceJet,Delhi,Cochin,1,44,27,5,0,0,Afternoon,Night,380
+1909,IndiGo,Mumbai,Hyderabad,0,164,1,5,2,0,Night,Night,90
+1910,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Night,Morning,460
+1911,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,675
+1912,SpiceJet,Kolkata,Banglore,0,172,12,3,1,0,Night,Night,140
+1913,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Evening,400
+1914,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Afternoon,Morning,1055
+1915,Air India,Delhi,Cochin,0,49,15,3,4,0,Morning,Morning,170
+1916,Jet Airways,Delhi,Cochin,2,11,9,6,6,1,Evening,Night,505
+1917,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Morning,Evening,705
+1918,Air India,Delhi,Cochin,2,15,9,6,6,1,Morning,Evening,2185
+1919,SpiceJet,Kolkata,Banglore,0,172,24,6,0,0,Morning,Morning,145
+1920,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Evening,Evening,1430
+1921,Air India,Kolkata,Banglore,2,3,12,6,2,0,Morning,Morning,1200
+1922,IndiGo,Kolkata,Banglore,1,13,12,5,6,1,Morning,Afternoon,290
+1923,Air India,Delhi,Cochin,1,4,12,6,2,0,Morning,Morning,1535
+1924,Multiple carriers,Delhi,Cochin,1,624,6,5,0,0,Afternoon,Evening,385
+1925,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,450
+1926,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,380
+1927,IndiGo,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,895
+1928,Air Asia,Kolkata,Banglore,0,172,9,4,1,0,Morning,Afternoon,150
+1929,Air India,Delhi,Cochin,2,12,1,6,5,1,Evening,Evening,1560
+1930,Jet Airways,Kolkata,Banglore,1,124,12,6,2,0,Evening,Night,395
+1931,Air India,Mumbai,Hyderabad,0,164,15,6,5,1,Night,Night,80
+1932,Vistara,Kolkata,Banglore,1,124,6,6,3,0,Evening,Evening,1440
+1933,IndiGo,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,575
+1934,SpiceJet,Delhi,Cochin,1,44,24,4,2,0,Morning,Morning,315
+1935,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Evening,1550
+1936,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Evening,Night,175
+1937,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Morning,800
+1938,IndiGo,Delhi,Cochin,1,55,21,5,1,0,Morning,Morning,295
+1939,IndiGo,Mumbai,Hyderabad,0,164,1,4,0,0,Morning,Morning,90
+1940,Jet Airways,Kolkata,Banglore,1,124,15,5,2,0,Evening,Evening,1500
+1941,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Evening,1545
+1942,Air Asia,Delhi,Cochin,1,55,3,3,6,1,Evening,Morning,660
+1943,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Morning,Evening,800
+1944,Air Asia,Kolkata,Banglore,1,124,6,5,0,0,Night,Morning,720
+1945,Jet Airways,Delhi,Cochin,2,74,6,3,2,0,Morning,Evening,2295
+1946,Vistara,Banglore,Delhi,0,389,15,4,0,0,Morning,Afternoon,170
+1947,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Evening,1375
+1948,Jet Airways,Mumbai,Hyderabad,0,164,24,6,0,0,Morning,Morning,85
+1949,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Night,Evening,860
+1950,Air Asia,Kolkata,Banglore,1,124,1,4,0,0,Morning,Night,955
+1951,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Afternoon,1025
+1952,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Evening,615
+1953,Air India,Delhi,Cochin,1,55,9,5,3,0,Evening,Night,1590
+1954,Air India,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,675
+1955,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Night,1375
+1956,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Night,1445
+1957,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Night,Morning,730
+1958,Jet Airways,Delhi,Cochin,0,49,27,6,3,0,Morning,Afternoon,195
+1959,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,620
+1960,Jet Airways,Banglore,Delhi,0,389,24,4,2,0,Morning,Morning,180
+1961,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Evening,Afternoon,940
+1962,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Morning,Night,660
+1963,IndiGo,Kolkata,Banglore,1,13,12,6,2,0,Evening,Night,280
+1964,IndiGo,Kolkata,Banglore,0,172,3,5,4,0,Afternoon,Evening,150
+1965,IndiGo,Delhi,Cochin,1,85,1,6,5,1,Morning,Afternoon,425
+1966,IndiGo,Banglore,Delhi,0,389,9,6,6,1,Evening,Night,185
+1967,IndiGo,Delhi,Cochin,1,44,3,4,2,0,Morning,Afternoon,315
+1968,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,600
+1969,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Night,Evening,860
+1970,GoAir,Delhi,Cochin,1,624,9,5,3,0,Morning,Afternoon,355
+1971,IndiGo,Mumbai,Hyderabad,1,1,6,3,2,0,Morning,Afternoon,290
+1972,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Evening,400
+1973,Air India,Kolkata,Banglore,2,12,18,5,5,1,Morning,Night,920
+1974,IndiGo,Chennai,Kolkata,0,75,24,6,0,0,Morning,Morning,145
+1975,Air India,Kolkata,Banglore,2,12,6,5,0,0,Morning,Night,1100
+1976,IndiGo,Delhi,Cochin,0,49,24,4,2,0,Afternoon,Evening,195
+1977,IndiGo,Kolkata,Banglore,0,172,15,6,5,1,Afternoon,Evening,155
+1978,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Evening,300
+1979,Jet Airways,Kolkata,Banglore,1,253,12,6,2,0,Afternoon,Afternoon,1430
+1980,Jet Airways,Mumbai,Hyderabad,2,1,12,3,1,0,Morning,Afternoon,560
+1981,Jet Airways,Kolkata,Banglore,1,5,1,4,0,0,Morning,Evening,435
+1982,IndiGo,Chennai,Kolkata,0,75,27,5,0,0,Morning,Afternoon,145
+1983,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,675
+1984,SpiceJet,Banglore,Delhi,0,389,18,3,0,0,Morning,Morning,170
+1985,Air India,Kolkata,Banglore,2,10,15,5,2,0,Morning,Morning,1165
+1986,Multiple carriers,Delhi,Cochin,1,85,6,3,2,0,Morning,Afternoon,545
+1987,Air Asia,Kolkata,Banglore,2,11,12,5,6,1,Afternoon,Night,500
+1988,Air India,Delhi,Cochin,1,4,3,6,0,0,Morning,Morning,1535
+1989,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,910
+1990,Jet Airways,Banglore,Delhi,0,389,21,5,1,0,Morning,Morning,180
+1991,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Evening,Night,1660
+1992,Air Asia,Banglore,Delhi,0,389,18,3,0,0,Night,Night,165
+1993,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Evening,Afternoon,1025
+1994,Vistara,Kolkata,Banglore,1,124,15,5,2,0,Evening,Morning,965
+1995,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Evening,Evening,1365
+1996,IndiGo,Kolkata,Banglore,0,172,21,5,1,0,Afternoon,Evening,150
+1997,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Morning,Evening,450
+1998,Vistara,Banglore,Delhi,0,389,1,5,2,0,Evening,Night,165
+1999,Vistara,Kolkata,Banglore,1,124,1,5,2,0,Evening,Evening,1350
+2000,SpiceJet,Banglore,Delhi,0,389,3,4,2,0,Morning,Morning,160
+2001,Air India,Delhi,Cochin,1,44,9,6,6,1,Afternoon,Morning,1255
+2002,Air India,Kolkata,Banglore,2,10,9,6,6,1,Morning,Afternoon,1825
+2003,IndiGo,Delhi,Cochin,0,49,24,6,0,0,Night,Night,195
+2004,Air Asia,Banglore,Delhi,0,389,24,3,6,1,Morning,Morning,170
+2005,GoAir,Banglore,Delhi,0,389,6,4,5,1,Morning,Afternoon,170
+2006,Air India,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Morning,1100
+2007,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Morning,Night,1125
+2008,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Night,Evening,910
+2009,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Evening,1665
+2010,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Morning,Afternoon,330
+2011,Multiple carriers,Delhi,Cochin,1,85,12,6,2,0,Afternoon,Night,455
+2012,Jet Airways,Banglore,Delhi,0,389,15,6,5,1,Morning,Morning,165
+2013,IndiGo,Kolkata,Banglore,0,172,1,6,5,1,Afternoon,Evening,150
+2014,Air India,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,165
+2015,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Evening,Night,610
+2016,Jet Airways,Banglore,Delhi,0,389,1,4,0,0,Morning,Afternoon,175
+2017,Vistara,Banglore,Delhi,0,389,6,6,3,0,Night,Night,170
+2018,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Night,Afternoon,460
+2019,IndiGo,Delhi,Cochin,1,85,21,5,1,0,Afternoon,Night,635
+2020,Air Asia,Delhi,Cochin,1,55,3,6,0,0,Morning,Afternoon,330
+2021,Air India,Kolkata,Banglore,3,1,24,5,4,0,Morning,Morning,1650
+2022,Air India,Mumbai,Hyderabad,0,164,15,6,5,1,Morning,Morning,80
+2023,SpiceJet,Kolkata,Banglore,0,172,27,5,0,0,Night,Night,140
+2024,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,690
+2025,Air Asia,Banglore,Delhi,0,389,15,6,5,1,Night,Night,170
+2026,IndiGo,Banglore,Delhi,1,3,15,3,4,0,Morning,Afternoon,245
+2027,IndiGo,Delhi,Cochin,1,624,27,6,3,0,Morning,Night,750
+2028,Vistara,Banglore,Delhi,0,389,3,5,4,0,Morning,Afternoon,170
+2029,Vistara,Kolkata,Banglore,1,124,24,3,6,1,Evening,Morning,870
+2030,IndiGo,Kolkata,Banglore,0,172,15,4,0,0,Night,Morning,155
+2031,Jet Airways,Mumbai,Hyderabad,0,164,12,5,6,1,Morning,Morning,90
+2032,Jet Airways,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,85
+2033,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Afternoon,Evening,400
+2034,IndiGo,Chennai,Kolkata,0,75,12,3,1,0,Evening,Night,140
+2035,Jet Airways,Banglore,Delhi,0,389,18,5,5,1,Morning,Morning,165
+2036,Vistara,Delhi,Cochin,0,49,12,6,2,0,Morning,Morning,190
+2037,Vistara,Delhi,Cochin,0,49,6,6,3,0,Afternoon,Evening,190
+2038,Jet Airways,Banglore,Delhi,0,389,3,5,4,0,Afternoon,Evening,175
+2039,Air India,Delhi,Cochin,2,74,15,6,5,1,Evening,Evening,1470
+2040,Air India,Delhi,Cochin,2,15,27,6,3,0,Night,Evening,1275
+2041,IndiGo,Delhi,Cochin,1,624,27,6,3,0,Night,Night,965
+2042,Air India,Banglore,Delhi,2,5,9,3,5,1,Evening,Night,1830
+2043,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Night,Evening,845
+2044,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Evening,Night,435
+2045,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Evening,385
+2046,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Night,730
+2047,Jet Airways,Banglore,Delhi,0,389,1,6,5,1,Evening,Evening,180
+2048,Air India,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,615
+2049,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,530
+2050,SpiceJet,Kolkata,Banglore,0,172,12,6,2,0,Morning,Morning,145
+2051,SpiceJet,Chennai,Kolkata,0,75,21,6,4,0,Morning,Afternoon,135
+2052,Air India,Delhi,Cochin,1,55,1,6,5,1,Evening,Morning,875
+2053,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Night,800
+2054,IndiGo,Kolkata,Banglore,0,172,24,4,2,0,Night,Morning,155
+2055,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Afternoon,Afternoon,1235
+2056,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Morning,Morning,165
+2057,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,660
+2058,SpiceJet,Mumbai,Hyderabad,0,164,1,5,2,0,Morning,Morning,90
+2059,Air India,Delhi,Cochin,2,15,3,6,0,0,Afternoon,Evening,1730
+2060,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Afternoon,Afternoon,1315
+2061,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,650
+2062,SpiceJet,Mumbai,Hyderabad,0,164,27,6,3,0,Morning,Morning,90
+2063,Air India,Banglore,Delhi,0,389,18,3,0,0,Morning,Morning,165
+2064,Jet Airways,Delhi,Cochin,2,6,21,3,3,0,Evening,Evening,1415
+2065,Jet Airways,Delhi,Cochin,2,74,9,6,6,1,Morning,Evening,810
+2066,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,705
+2067,IndiGo,Banglore,Delhi,0,389,21,4,6,1,Afternoon,Afternoon,170
+2068,Jet Airways,Mumbai,Hyderabad,0,164,24,6,0,0,Morning,Morning,90
+2069,Air India,Mumbai,Hyderabad,1,3,12,3,1,0,Afternoon,Morning,985
+2070,GoAir,Kolkata,Banglore,1,27,12,5,6,1,Morning,Afternoon,475
+2071,IndiGo,Delhi,Cochin,1,6,18,5,5,1,Night,Night,345
+2072,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Evening,Afternoon,1010
+2073,Jet Airways,Mumbai,Hyderabad,0,164,6,3,2,0,Evening,Night,90
+2074,IndiGo,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,175
+2075,IndiGo,Delhi,Cochin,1,85,9,5,3,0,Morning,Night,895
+2076,Jet Airways,Mumbai,Hyderabad,0,164,27,6,3,0,Morning,Morning,90
+2077,Air India,Kolkata,Banglore,2,7,6,6,3,0,Afternoon,Morning,765
+2078,IndiGo,Delhi,Cochin,1,624,9,6,6,1,Evening,Night,415
+2079,Jet Airways,Banglore,Delhi,0,389,24,5,4,0,Evening,Night,180
+2080,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Morning,1055
+2081,Vistara,Kolkata,Banglore,1,124,12,5,6,1,Evening,Morning,865
+2082,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,795
+2083,Air India,Delhi,Cochin,2,12,15,6,5,1,Afternoon,Evening,1800
+2084,Jet Airways,Banglore,Delhi,0,389,24,6,0,0,Evening,Evening,180
+2085,Air India,Banglore,Delhi,1,1,1,3,4,0,Afternoon,Night,500
+2086,Air India,Delhi,Cochin,2,15,9,3,5,1,Morning,Morning,1490
+2087,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Afternoon,Evening,345
+2088,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Morning,910
+2089,SpiceJet,Kolkata,Banglore,0,172,6,5,0,0,Evening,Evening,150
+2090,Air India,Kolkata,Banglore,2,10,12,6,2,0,Morning,Morning,1165
+2091,GoAir,Delhi,Cochin,1,85,21,4,6,1,Morning,Afternoon,365
+2092,Jet Airways,Mumbai,Hyderabad,0,164,12,6,2,0,Morning,Morning,90
+2093,Jet Airways,Kolkata,Banglore,1,253,9,6,6,1,Evening,Evening,1335
+2094,SpiceJet,Chennai,Kolkata,0,75,15,5,2,0,Morning,Afternoon,135
+2095,Jet Airways,Delhi,Cochin,2,12,1,6,5,1,Afternoon,Night,830
+2096,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,520
+2097,Vistara,Banglore,Delhi,0,389,24,5,4,0,Morning,Afternoon,170
+2098,Vistara,Kolkata,Banglore,1,124,9,5,3,0,Morning,Morning,1655
+2099,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,725
+2100,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Night,1585
+2101,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Afternoon,Afternoon,1565
+2102,Jet Airways,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,180
+2103,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Afternoon,Night,765
+2104,Jet Airways,Mumbai,Hyderabad,0,164,15,3,4,0,Night,Night,90
+2105,Jet Airways,Banglore,Delhi,0,389,3,5,4,0,Evening,Night,185
+2106,IndiGo,Delhi,Cochin,1,55,9,5,3,0,Night,Morning,345
+2107,Air Asia,Kolkata,Banglore,0,172,9,4,1,0,Night,Night,150
+2108,IndiGo,Mumbai,Hyderabad,0,164,21,3,3,0,Evening,Night,90
+2109,Jet Airways,Delhi,Cochin,2,6,27,3,2,0,Morning,Night,1395
+2110,Vistara,Kolkata,Banglore,1,124,18,5,5,1,Evening,Night,385
+2111,IndiGo,Delhi,Cochin,1,85,12,6,2,0,Afternoon,Night,380
+2112,IndiGo,Delhi,Cochin,1,624,15,6,5,1,Evening,Night,500
+2113,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Afternoon,395
+2114,Air India,Delhi,Cochin,2,15,27,3,2,0,Morning,Evening,2185
+2115,Air India,Delhi,Cochin,2,41,27,5,0,0,Afternoon,Evening,1595
+2116,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Evening,Night,1480
+2117,Jet Airways,Kolkata,Banglore,1,124,24,5,4,0,Morning,Morning,1520
+2118,Vistara,Banglore,Delhi,0,389,15,5,2,0,Night,Night,170
+2119,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Evening,1665
+2120,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Night,425
+2121,Air India,Delhi,Cochin,1,55,3,6,0,0,Morning,Night,1010
+2122,Air Asia,Kolkata,Banglore,0,172,12,3,1,0,Morning,Afternoon,150
+2123,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,930
+2124,IndiGo,Banglore,Delhi,0,389,15,5,2,0,Night,Night,170
+2125,Jet Airways,Delhi,Cochin,2,74,27,5,0,0,Morning,Night,1375
+2126,Jet Airways,Delhi,Cochin,2,18,12,6,2,0,Night,Afternoon,910
+2127,Air India,Delhi,Cochin,0,49,9,6,6,1,Morning,Morning,170
+2128,Jet Airways,Banglore,Delhi,0,389,24,5,4,0,Afternoon,Evening,175
+2129,IndiGo,Mumbai,Hyderabad,0,164,15,5,2,0,Evening,Evening,90
+2130,IndiGo,Kolkata,Banglore,0,172,24,5,4,0,Night,Night,160
+2131,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Night,Evening,1415
+2132,IndiGo,Banglore,Delhi,0,389,15,3,4,0,Evening,Night,170
+2133,SpiceJet,Delhi,Cochin,1,7,21,5,1,0,Morning,Afternoon,270
+2134,Air India,Chennai,Kolkata,0,75,27,6,3,0,Morning,Afternoon,135
+2135,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Evening,400
+2136,Air India,Kolkata,Banglore,1,253,1,4,0,0,Afternoon,Morning,1100
+2137,Air Asia,Banglore,Delhi,0,389,9,5,3,0,Night,Night,170
+2138,Air Asia,Kolkata,Banglore,1,124,1,5,2,0,Morning,Evening,710
+2139,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Night,Night,335
+2140,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Morning,1200
+2141,SpiceJet,Mumbai,Hyderabad,0,164,18,5,5,1,Afternoon,Afternoon,90
+2142,IndiGo,Kolkata,Banglore,1,27,9,5,3,0,Afternoon,Evening,290
+2143,SpiceJet,Banglore,Delhi,0,389,9,6,6,1,Morning,Afternoon,170
+2144,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,805
+2145,Air India,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,735
+2146,IndiGo,Chennai,Kolkata,0,75,24,5,4,0,Evening,Night,140
+2147,Air India,Delhi,Cochin,0,49,12,5,6,1,Afternoon,Evening,180
+2148,Jet Airways,Kolkata,Banglore,1,253,15,5,2,0,Afternoon,Afternoon,1315
+2149,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Morning,Afternoon,455
+2150,GoAir,Banglore,Delhi,0,389,27,4,5,1,Morning,Afternoon,170
+2151,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Morning,Evening,505
+2152,Vistara,Banglore,Delhi,0,389,9,5,3,0,Evening,Night,165
+2153,SpiceJet,Mumbai,Hyderabad,0,164,21,6,4,0,Afternoon,Afternoon,90
+2154,Air India,Banglore,Delhi,0,389,9,3,5,1,Morning,Morning,180
+2155,Jet Airways,Delhi,Cochin,2,11,15,6,5,1,Evening,Night,605
+2156,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Night,Afternoon,890
+2157,Vistara,Banglore,Delhi,0,389,1,3,4,0,Morning,Afternoon,165
+2158,Jet Airways,Delhi,Cochin,2,6,27,5,0,0,Morning,Evening,440
+2159,Jet Airways,Delhi,Cochin,1,624,21,3,3,0,Night,Night,385
+2160,Air India,Kolkata,Banglore,0,172,27,4,5,1,Afternoon,Afternoon,150
+2161,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Morning,Night,660
+2162,GoAir,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,540
+2163,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Morning,Afternoon,475
+2164,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,720
+2165,Jet Airways,Banglore,Delhi,0,389,27,6,3,0,Morning,Morning,165
+2166,Multiple carriers,Delhi,Cochin,1,624,15,5,2,0,Morning,Night,560
+2167,Jet Airways,Delhi,Cochin,2,74,1,6,5,1,Morning,Night,1375
+2168,IndiGo,Delhi,Cochin,1,624,21,5,1,0,Morning,Night,575
+2169,SpiceJet,Mumbai,Hyderabad,0,164,1,4,0,0,Afternoon,Afternoon,90
+2170,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Night,480
+2171,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Afternoon,1615
+2172,Air Asia,Kolkata,Banglore,0,172,27,4,5,1,Morning,Afternoon,155
+2173,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Morning,Night,750
+2174,SpiceJet,Delhi,Cochin,1,44,12,6,2,0,Morning,Morning,315
+2175,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Morning,Evening,575
+2176,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Evening,Night,450
+2177,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,1165
+2178,IndiGo,Kolkata,Banglore,1,27,24,4,2,0,Afternoon,Evening,315
+2179,IndiGo,Delhi,Cochin,1,85,24,6,0,0,Afternoon,Night,490
+2180,Jet Airways,Banglore,Delhi,0,389,12,4,4,0,Afternoon,Evening,175
+2181,Air India,Kolkata,Banglore,1,253,24,3,6,1,Morning,Night,745
+2182,Jet Airways,Delhi,Cochin,2,5,27,6,3,0,Morning,Afternoon,1630
+2183,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Evening,Evening,1425
+2184,Air India,Delhi,Cochin,1,624,27,3,2,0,Night,Evening,915
+2185,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,600
+2186,IndiGo,Delhi,Cochin,1,85,6,3,2,0,Morning,Afternoon,570
+2187,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,600
+2188,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Morning,Afternoon,380
+2189,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Morning,Night,750
+2190,IndiGo,Delhi,Cochin,1,85,3,6,0,0,Morning,Night,895
+2191,SpiceJet,Kolkata,Banglore,0,172,15,5,2,0,Morning,Morning,145
+2192,IndiGo,Banglore,Delhi,0,389,9,3,5,1,Morning,Morning,175
+2193,Vistara,Kolkata,Banglore,1,124,9,5,3,0,Evening,Night,1580
+2194,Air India,Delhi,Cochin,2,12,12,6,2,0,Morning,Morning,1545
+2195,Jet Airways,Delhi,Cochin,2,41,3,3,6,1,Evening,Night,1995
+2196,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Afternoon,Night,510
+2197,Jet Airways,Mumbai,Hyderabad,0,164,18,5,5,1,Night,Night,85
+2198,Air India,Kolkata,Banglore,0,172,24,3,6,1,Afternoon,Afternoon,150
+2199,SpiceJet,Mumbai,Hyderabad,0,164,9,6,6,1,Morning,Morning,90
+2200,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Evening,685
+2201,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Night,Evening,1210
+2202,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Evening,385
+2203,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Morning,Afternoon,330
+2204,IndiGo,Mumbai,Hyderabad,0,164,1,3,4,0,Evening,Evening,85
+2205,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,910
+2206,IndiGo,Banglore,Delhi,0,389,12,4,4,0,Night,Night,170
+2207,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Evening,Evening,1320
+2208,IndiGo,Kolkata,Banglore,0,172,6,3,2,0,Morning,Afternoon,165
+2209,Air India,Delhi,Cochin,2,74,18,5,5,1,Afternoon,Evening,435
+2210,SpiceJet,Chennai,Kolkata,0,75,6,5,0,0,Morning,Afternoon,135
+2211,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,600
+2212,Jet Airways,Kolkata,Banglore,1,124,12,5,6,1,Evening,Evening,1500
+2213,Jet Airways,Banglore,Delhi,0,389,18,6,1,0,Evening,Night,185
+2214,Jet Airways,Delhi,Cochin,1,624,24,6,0,0,Evening,Evening,1395
+2215,Vistara,Delhi,Cochin,0,49,21,4,6,1,Morning,Morning,190
+2216,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Night,Afternoon,825
+2217,SpiceJet,Kolkata,Banglore,0,172,3,4,2,0,Night,Night,140
+2218,Air India,Banglore,Delhi,0,389,6,6,3,0,Afternoon,Afternoon,170
+2219,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,450
+2220,Multiple carriers,Delhi,Cochin,1,85,15,6,5,1,Morning,Afternoon,385
+2221,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Evening,690
+2222,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Night,710
+2223,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Night,570
+2224,SpiceJet,Kolkata,Banglore,0,172,18,4,3,0,Morning,Morning,155
+2225,IndiGo,Delhi,Cochin,1,85,15,6,5,1,Morning,Night,940
+2226,Jet Airways,Delhi,Cochin,1,624,12,6,2,0,Evening,Afternoon,1145
+2227,IndiGo,Delhi,Cochin,1,6,24,5,4,0,Night,Night,345
+2228,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Morning,Night,840
+2229,Air India,Banglore,Delhi,2,1,6,3,2,0,Morning,Afternoon,575
+2230,Jet Airways,Delhi,Cochin,2,74,21,3,3,0,Morning,Evening,550
+2231,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,630
+2232,Air India,Delhi,Cochin,2,74,3,6,0,0,Evening,Evening,1470
+2233,Jet Airways,Banglore,Delhi,0,389,9,5,3,0,Morning,Afternoon,175
+2234,GoAir,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Evening,310
+2235,Air India,Delhi,Cochin,1,624,1,6,5,1,Afternoon,Evening,375
+2236,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,600
+2237,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Evening,Evening,1425
+2238,SpiceJet,Chennai,Kolkata,0,75,24,5,4,0,Evening,Evening,140
+2239,Air India,Delhi,Cochin,1,55,21,4,6,1,Morning,Night,795
+2240,IndiGo,Delhi,Cochin,1,85,6,6,3,0,Morning,Afternoon,320
+2241,Jet Airways,Delhi,Cochin,2,2,21,3,3,0,Morning,Night,1325
+2242,Jet Airways,Kolkata,Banglore,1,124,6,5,0,0,Morning,Night,750
+2243,Vistara,Banglore,Delhi,0,389,21,6,4,0,Morning,Afternoon,170
+2244,SpiceJet,Mumbai,Hyderabad,0,164,21,5,1,0,Night,Night,90
+2245,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Evening,Afternoon,1285
+2246,Jet Airways,Delhi,Cochin,2,41,9,4,1,0,Evening,Afternoon,1045
+2247,SpiceJet,Kolkata,Banglore,0,172,24,4,2,0,Morning,Morning,145
+2248,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Evening,Afternoon,960
+2249,Vistara,Chennai,Kolkata,0,75,12,5,6,1,Morning,Morning,135
+2250,IndiGo,Delhi,Cochin,1,85,15,5,2,0,Morning,Afternoon,275
+2251,Air India,Kolkata,Banglore,2,12,6,5,0,0,Morning,Night,920
+2252,Jet Airways,Delhi,Cochin,2,2,27,3,2,0,Morning,Evening,750
+2253,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Evening,Afternoon,1080
+2254,IndiGo,Delhi,Cochin,1,44,24,4,2,0,Morning,Afternoon,315
+2255,IndiGo,Mumbai,Hyderabad,0,164,24,3,6,1,Morning,Morning,85
+2256,Air India,Banglore,Delhi,0,389,24,6,0,0,Evening,Evening,165
+2257,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Afternoon,Evening,400
+2258,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Morning,Afternoon,330
+2259,Jet Airways,Delhi,Cochin,2,74,1,6,5,1,Morning,Night,1125
+2260,Air India,Banglore,Delhi,0,389,12,4,4,0,Evening,Evening,165
+2261,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,780
+2262,SpiceJet,Mumbai,Hyderabad,0,164,3,6,0,0,Night,Night,90
+2263,Jet Airways,Mumbai,Hyderabad,0,164,1,3,4,0,Afternoon,Evening,90
+2264,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Evening,Night,520
+2265,Jet Airways,Kolkata,Banglore,1,124,6,5,0,0,Evening,Night,1745
+2266,SpiceJet,Chennai,Kolkata,0,75,18,6,1,0,Morning,Morning,135
+2267,Air India,Delhi,Cochin,2,41,3,6,0,0,Afternoon,Evening,1595
+2268,Jet Airways,Banglore,Delhi,0,389,6,6,3,0,Afternoon,Evening,175
+2269,IndiGo,Kolkata,Banglore,1,10,6,4,5,1,Evening,Night,220
+2270,Air India,Delhi,Cochin,2,41,27,5,0,0,Evening,Evening,1410
+2271,IndiGo,Delhi,Cochin,1,44,15,4,0,0,Morning,Afternoon,315
+2272,Jet Airways,Delhi,Cochin,2,18,9,6,6,1,Morning,Evening,810
+2273,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Evening,810
+2274,Air Asia,Delhi,Cochin,1,55,9,6,6,1,Afternoon,Morning,865
+2275,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Night,Morning,665
+2276,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Night,Night,450
+2277,IndiGo,Banglore,Delhi,0,389,6,5,0,0,Afternoon,Evening,180
+2278,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Afternoon,Night,570
+2279,Jet Airways,Banglore,Delhi,0,389,1,5,2,0,Evening,Night,180
+2280,Air India,Kolkata,Banglore,0,172,9,3,5,1,Evening,Night,155
+2281,Jet Airways,Banglore,Delhi,0,389,15,3,4,0,Evening,Night,160
+2282,Air India,Delhi,Cochin,2,15,9,5,3,0,Morning,Morning,1245
+2283,Air Asia,Delhi,Cochin,1,55,18,5,5,1,Afternoon,Night,340
+2284,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Morning,Afternoon,490
+2285,Jet Airways,Delhi,Cochin,1,624,18,5,5,1,Night,Afternoon,620
+2286,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,615
+2287,IndiGo,Mumbai,Hyderabad,0,164,24,3,6,1,Morning,Morning,90
+2288,Air India,Kolkata,Banglore,1,27,12,6,2,0,Evening,Night,580
+2289,Jet Airways,Delhi,Cochin,2,74,21,3,3,0,Morning,Evening,800
+2290,Air India,Delhi,Cochin,1,44,9,3,5,1,Afternoon,Morning,1255
+2291,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Night,615
+2292,IndiGo,Banglore,Delhi,0,389,21,3,3,0,Night,Night,175
+2293,Air India,Kolkata,Banglore,2,11,15,5,2,0,Afternoon,Evening,1830
+2294,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Evening,Evening,1570
+2295,Jet Airways,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,165
+2296,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Morning,Evening,440
+2297,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,875
+2298,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Evening,Morning,890
+2299,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Afternoon,Night,730
+2300,Jet Airways,Delhi,Cochin,2,74,27,6,3,0,Morning,Evening,810
+2301,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Afternoon,Evening,375
+2302,GoAir,Delhi,Cochin,1,624,6,3,2,0,Morning,Afternoon,350
+2303,Jet Airways,Banglore,Delhi,0,389,9,6,6,1,Evening,Night,180
+2304,Jet Airways,Kolkata,Banglore,1,124,1,5,2,0,Morning,Night,750
+2305,IndiGo,Banglore,Delhi,0,389,24,6,0,0,Night,Night,170
+2306,IndiGo,Delhi,Cochin,1,624,9,5,3,0,Morning,Night,750
+2307,Air India,Kolkata,Banglore,1,253,12,6,2,0,Morning,Night,745
+2308,Air India,Kolkata,Banglore,2,1,6,5,0,0,Morning,Morning,1480
+2309,Air India,Banglore,Delhi,2,1,21,3,3,0,Morning,Night,655
+2310,Jet Airways,Delhi,Cochin,2,6,27,3,2,0,Morning,Night,1395
+2311,IndiGo,Mumbai,Hyderabad,0,164,1,6,5,1,Evening,Evening,90
+2312,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Evening,685
+2313,GoAir,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Evening,310
+2314,Jet Airways,Delhi,Cochin,2,74,21,5,1,0,Morning,Afternoon,1615
+2315,Jet Airways,Delhi,Cochin,2,74,21,3,3,0,Morning,Night,1125
+2316,Air Asia,Banglore,Delhi,0,389,1,4,0,0,Morning,Afternoon,165
+2317,SpiceJet,Chennai,Kolkata,0,75,3,5,4,0,Morning,Afternoon,135
+2318,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,1165
+2319,IndiGo,Delhi,Cochin,1,624,3,6,0,0,Evening,Night,480
+2320,IndiGo,Delhi,Cochin,1,85,21,5,1,0,Morning,Evening,680
+2321,Air India,Delhi,Cochin,1,55,24,6,0,0,Morning,Night,795
+2322,Vistara,Banglore,Delhi,0,389,3,4,2,0,Evening,Evening,155
+2323,Air India,Delhi,Cochin,2,15,15,6,5,1,Afternoon,Evening,1580
+2324,Jet Airways,Delhi,Cochin,2,74,6,6,3,0,Evening,Night,535
+2325,IndiGo,Kolkata,Banglore,0,172,3,3,6,1,Night,Night,160
+2326,Air India,Delhi,Cochin,2,12,9,5,3,0,Evening,Evening,1560
+2327,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Night,1005
+2328,Jet Airways,Delhi,Cochin,2,12,3,6,0,0,Afternoon,Afternoon,1320
+2329,Air India,Kolkata,Banglore,0,172,1,5,2,0,Evening,Night,155
+2330,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,640
+2331,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Evening,Night,550
+2332,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Night,745
+2333,IndiGo,Delhi,Cochin,1,6,27,3,2,0,Morning,Morning,275
+2334,Jet Airways,Kolkata,Banglore,1,253,6,5,0,0,Night,Night,450
+2335,Jet Airways,Banglore,Delhi,0,389,15,6,5,1,Evening,Evening,180
+2336,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,555
+2337,Multiple carriers,Delhi,Cochin,1,624,27,5,0,0,Afternoon,Evening,375
+2338,IndiGo,Banglore,Delhi,0,389,1,4,0,0,Night,Night,180
+2339,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Afternoon,Morning,1220
+2340,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Evening,Morning,800
+2341,Jet Airways,Delhi,Cochin,1,624,3,3,6,1,Afternoon,Night,800
+2342,Air India,Kolkata,Banglore,2,10,6,6,3,0,Morning,Morning,1345
+2343,SpiceJet,Mumbai,Hyderabad,0,164,1,6,5,1,Night,Night,90
+2344,IndiGo,Banglore,Delhi,1,1,3,3,6,1,Afternoon,Night,285
+2345,Vistara,Banglore,Delhi,0,389,21,6,4,0,Evening,Evening,155
+2346,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Night,Afternoon,795
+2347,GoAir,Kolkata,Banglore,1,1,6,6,3,0,Afternoon,Night,455
+2348,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Evening,Night,1630
+2349,Jet Airways,Delhi,Cochin,2,7,21,3,3,0,Evening,Evening,1465
+2350,Air India,Banglore,Delhi,1,2,3,3,6,1,Morning,Night,1015
+2351,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Afternoon,Evening,300
+2352,IndiGo,Delhi,Cochin,1,85,24,6,0,0,Morning,Night,895
+2353,Jet Airways,Banglore,Delhi,0,389,3,4,2,0,Evening,Evening,180
+2354,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,735
+2355,IndiGo,Delhi,Cochin,1,85,9,3,5,1,Morning,Night,885
+2356,GoAir,Kolkata,Banglore,0,172,21,6,4,0,Afternoon,Evening,155
+2357,IndiGo,Mumbai,Hyderabad,0,164,1,5,2,0,Night,Night,90
+2358,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Evening,450
+2359,Air India,Banglore,Delhi,2,3,1,3,4,0,Morning,Night,2440
+2360,Jet Airways,Delhi,Cochin,1,624,27,5,0,0,Evening,Evening,1395
+2361,Air Asia,Kolkata,Banglore,0,172,3,5,4,0,Night,Night,150
+2362,Multiple carriers,Delhi,Cochin,1,624,6,5,0,0,Morning,Evening,630
+2363,Vistara,Kolkata,Banglore,1,124,18,5,5,1,Evening,Night,1580
+2364,Air Asia,Banglore,Delhi,0,389,12,6,2,0,Night,Morning,170
+2365,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Evening,Evening,1365
+2366,Air India,Delhi,Cochin,2,4,24,6,0,0,Afternoon,Morning,1100
+2367,Air India,Delhi,Cochin,2,15,9,6,6,1,Morning,Morning,1490
+2368,Vistara,Chennai,Kolkata,0,75,21,5,1,0,Evening,Evening,140
+2369,IndiGo,Kolkata,Banglore,0,172,27,4,5,1,Night,Night,160
+2370,Vistara,Banglore,Delhi,0,389,21,6,4,0,Morning,Afternoon,170
+2371,Air India,Banglore,Delhi,0,389,24,3,6,1,Afternoon,Afternoon,170
+2372,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Evening,1395
+2373,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Morning,Morning,1520
+2374,Jet Airways,Kolkata,Banglore,1,124,9,6,6,1,Evening,Afternoon,1080
+2375,IndiGo,Delhi,Cochin,1,624,18,5,5,1,Morning,Night,810
+2376,Jet Airways,Delhi,Cochin,1,624,9,5,3,0,Night,Night,335
+2377,Air Asia,Kolkata,Banglore,1,124,18,5,5,1,Night,Morning,720
+2378,IndiGo,Delhi,Cochin,0,49,15,6,5,1,Afternoon,Evening,195
+2379,Air India,Delhi,Cochin,2,9,3,3,6,1,Morning,Evening,800
+2380,IndiGo,Banglore,Delhi,0,389,6,4,5,1,Night,Night,175
+2381,IndiGo,Banglore,Delhi,0,389,9,6,6,1,Afternoon,Afternoon,170
+2382,SpiceJet,Chennai,Kolkata,0,75,1,6,5,1,Evening,Evening,140
+2383,Air India,Banglore,Delhi,0,389,24,3,6,1,Morning,Afternoon,165
+2384,IndiGo,Banglore,Delhi,0,389,21,5,1,0,Night,Night,165
+2385,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,675
+2386,Air India,Delhi,Cochin,1,55,15,5,2,0,Morning,Morning,1565
+2387,Air India,Mumbai,Hyderabad,0,164,18,3,0,0,Afternoon,Afternoon,90
+2388,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Evening,Morning,810
+2389,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Night,730
+2390,Multiple carriers,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Night,750
+2391,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Afternoon,Night,745
+2392,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Morning,Evening,585
+2393,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Afternoon,480
+2394,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Evening,875
+2395,Jet Airways,Delhi,Cochin,2,11,27,6,3,0,Evening,Night,505
+2396,Air India,Delhi,Cochin,0,49,27,3,2,0,Evening,Night,185
+2397,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Evening,Morning,735
+2398,SpiceJet,Mumbai,Hyderabad,0,164,24,3,6,1,Afternoon,Afternoon,80
+2399,IndiGo,Delhi,Cochin,0,49,9,3,5,1,Morning,Afternoon,195
+2400,Jet Airways,Delhi,Cochin,2,18,27,6,3,0,Night,Afternoon,910
+2401,Jet Airways,Delhi,Cochin,1,624,27,3,2,0,Evening,Evening,1530
+2402,Air India,Kolkata,Banglore,2,11,9,5,3,0,Morning,Night,1045
+2403,IndiGo,Banglore,Delhi,0,389,1,5,2,0,Evening,Night,170
+2404,Air India,Delhi,Cochin,1,55,3,3,6,1,Evening,Night,1590
+2405,SpiceJet,Mumbai,Hyderabad,0,164,1,4,0,0,Morning,Morning,90
+2406,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Morning,Evening,800
+2407,Jet Airways,Delhi,Cochin,2,74,6,6,3,0,Morning,Evening,560
+2408,Vistara,Kolkata,Banglore,1,124,21,5,1,0,Morning,Night,975
+2409,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Morning,Evening,800
+2410,IndiGo,Delhi,Cochin,1,85,1,6,5,1,Morning,Afternoon,515
+2411,IndiGo,Kolkata,Banglore,1,27,6,6,3,0,Evening,Night,265
+2412,Vistara,Kolkata,Banglore,1,124,18,5,5,1,Morning,Morning,1655
+2413,SpiceJet,Mumbai,Hyderabad,0,164,24,5,4,0,Afternoon,Afternoon,90
+2414,IndiGo,Delhi,Cochin,1,44,21,4,6,1,Morning,Afternoon,315
+2415,IndiGo,Kolkata,Banglore,0,172,12,6,2,0,Night,Night,155
+2416,Air India,Mumbai,Hyderabad,2,1,6,3,2,0,Night,Afternoon,795
+2417,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Night,Morning,170
+2418,Multiple carriers,Delhi,Cochin,1,624,18,5,5,1,Morning,Evening,540
+2419,Air Asia,Kolkata,Banglore,2,11,1,4,0,0,Afternoon,Night,500
+2420,Jet Airways,Kolkata,Banglore,1,253,24,3,6,1,Afternoon,Evening,1665
+2421,SpiceJet,Kolkata,Banglore,0,172,12,3,1,0,Morning,Morning,160
+2422,Air India,Banglore,Delhi,4,1,1,3,4,0,Morning,Night,1025
+2423,IndiGo,Kolkata,Banglore,1,27,6,5,0,0,Afternoon,Evening,315
+2424,Air India,Delhi,Cochin,2,15,27,3,2,0,Morning,Morning,1490
+2425,IndiGo,Delhi,Cochin,1,85,27,3,2,0,Morning,Afternoon,455
+2426,Jet Airways,Banglore,Delhi,1,107,18,3,0,0,Night,Morning,530
+2427,SpiceJet,Chennai,Kolkata,0,75,12,5,6,1,Morning,Afternoon,135
+2428,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Evening,Evening,1325
+2429,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Evening,Evening,1325
+2430,GoAir,Delhi,Cochin,1,5,6,6,3,0,Morning,Afternoon,370
+2431,Air India,Kolkata,Banglore,1,124,18,5,5,1,Morning,Evening,625
+2432,Air India,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,675
+2433,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Morning,Evening,685
+2434,IndiGo,Banglore,Delhi,0,389,3,3,6,1,Night,Morning,170
+2435,Jet Airways,Mumbai,Hyderabad,1,10,6,3,2,0,Evening,Afternoon,1370
+2436,Air India,Mumbai,Hyderabad,0,164,1,4,0,0,Afternoon,Afternoon,90
+2437,Jet Airways,Kolkata,Banglore,1,124,1,5,2,0,Morning,Evening,505
+2438,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Evening,685
+2439,IndiGo,Banglore,Delhi,0,389,3,6,0,0,Morning,Afternoon,170
+2440,Air India,Kolkata,Banglore,2,10,21,5,1,0,Morning,Night,955
+2441,Jet Airways,Banglore,Delhi,0,389,15,6,5,1,Morning,Morning,180
+2442,Air India,Kolkata,Banglore,3,1,12,5,6,1,Afternoon,Evening,1945
+2443,Air Asia,Banglore,Delhi,0,389,21,4,6,1,Night,Morning,170
+2444,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Evening,Afternoon,1050
+2445,Air India,Kolkata,Banglore,2,1,15,5,2,0,Morning,Afternoon,445
+2446,Air India,Mumbai,Hyderabad,0,164,3,5,4,0,Morning,Morning,80
+2447,SpiceJet,Banglore,Delhi,0,389,1,5,2,0,Morning,Morning,160
+2448,Jet Airways,Delhi,Cochin,2,41,27,3,2,0,Evening,Night,1995
+2449,Jet Airways,Delhi,Cochin,1,624,1,4,0,0,Afternoon,Evening,1620
+2450,Air Asia,Delhi,Cochin,1,55,12,6,2,0,Afternoon,Night,340
+2451,IndiGo,Banglore,Delhi,1,6,3,3,6,1,Afternoon,Evening,260
+2452,Jet Airways,Banglore,Delhi,0,389,18,5,5,1,Morning,Morning,180
+2453,Vistara,Mumbai,Hyderabad,1,10,6,3,2,0,Morning,Afternoon,380
+2454,Air India,Kolkata,Banglore,0,172,18,4,3,0,Evening,Night,155
+2455,Jet Airways,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,660
+2456,IndiGo,Kolkata,Banglore,0,172,1,3,4,0,Morning,Afternoon,165
+2457,Jet Airways,Banglore,Delhi,0,389,24,6,0,0,Morning,Afternoon,175
+2458,Multiple carriers,Delhi,Cochin,1,85,24,6,0,0,Morning,Night,925
+2459,IndiGo,Banglore,Delhi,0,389,9,6,6,1,Morning,Morning,165
+2460,Jet Airways,Kolkata,Banglore,1,253,1,5,2,0,Morning,Morning,1540
+2461,IndiGo,Delhi,Cochin,1,85,1,6,5,1,Morning,Afternoon,665
+2462,Air India,Mumbai,Hyderabad,2,2,6,3,2,0,Morning,Morning,1460
+2463,Jet Airways,Delhi,Cochin,2,11,6,6,3,0,Evening,Night,505
+2464,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,715
+2465,SpiceJet,Delhi,Cochin,1,7,1,4,0,0,Morning,Afternoon,270
+2466,Jet Airways,Delhi,Cochin,2,74,24,6,0,0,Evening,Night,535
+2467,SpiceJet,Banglore,Delhi,0,389,3,6,0,0,Morning,Morning,160
+2468,Vistara,Banglore,Delhi,0,389,21,6,4,0,Evening,Night,165
+2469,Jet Airways,Kolkata,Banglore,1,253,1,4,0,0,Night,Morning,775
+2470,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Evening,555
+2471,Air India,Delhi,Cochin,1,624,3,3,6,1,Night,Evening,915
+2472,Jet Airways,Delhi,Cochin,2,6,27,3,2,0,Morning,Evening,2315
+2473,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,595
+2474,IndiGo,Kolkata,Banglore,0,172,1,4,0,0,Night,Night,160
+2475,Air India,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Evening,375
+2476,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Morning,1325
+2477,Air India,Mumbai,Hyderabad,0,164,12,6,2,0,Morning,Morning,80
+2478,Jet Airways,Delhi,Cochin,2,18,15,6,5,1,Night,Afternoon,910
+2479,IndiGo,Delhi,Cochin,1,7,9,6,6,1,Night,Night,305
+2480,Jet Airways,Banglore,Delhi,1,107,9,3,5,1,Morning,Night,860
+2481,IndiGo,Kolkata,Banglore,1,27,9,4,1,0,Afternoon,Evening,315
+2482,IndiGo,Banglore,Delhi,0,389,12,6,2,0,Evening,Night,175
+2483,IndiGo,Mumbai,Hyderabad,0,164,24,5,4,0,Evening,Evening,90
+2484,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Afternoon,510
+2485,Jet Airways,Banglore,Delhi,0,389,3,6,0,0,Evening,Night,185
+2486,Jet Airways,Delhi,Cochin,2,74,15,6,5,1,Morning,Afternoon,1615
+2487,Multiple carriers,Delhi,Cochin,3,2,3,3,6,1,Morning,Night,840
+2488,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,455
+2489,IndiGo,Delhi,Cochin,1,624,21,5,1,0,Afternoon,Night,570
+2490,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Evening,Evening,1470
+2491,Air Asia,Delhi,Cochin,1,55,6,3,2,0,Afternoon,Night,330
+2492,Jet Airways,Delhi,Cochin,2,18,6,3,2,0,Morning,Evening,2300
+2493,Air India,Delhi,Cochin,1,4,18,5,5,1,Morning,Morning,1535
+2494,Air India,Kolkata,Banglore,2,11,12,6,2,0,Morning,Afternoon,1840
+2495,SpiceJet,Kolkata,Banglore,0,172,12,5,6,1,Morning,Morning,155
+2496,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,940
+2497,SpiceJet,Banglore,Delhi,0,389,1,6,5,1,Night,Night,175
+2498,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,1110
+2499,Air India,Delhi,Cochin,1,624,27,3,2,0,Morning,Evening,615
+2500,Vistara,Banglore,Delhi,0,389,3,6,0,0,Morning,Afternoon,170
+2501,IndiGo,Mumbai,Hyderabad,0,164,9,6,6,1,Night,Night,90
+2502,SpiceJet,Delhi,Cochin,1,7,3,4,2,0,Morning,Afternoon,270
+2503,Jet Airways,Kolkata,Banglore,1,253,9,5,3,0,Evening,Night,585
+2504,IndiGo,Chennai,Kolkata,0,75,18,5,5,1,Morning,Morning,145
+2505,IndiGo,Mumbai,Hyderabad,0,164,6,6,3,0,Night,Night,90
+2506,IndiGo,Banglore,Delhi,1,6,15,3,4,0,Afternoon,Evening,295
+2507,IndiGo,Delhi,Cochin,1,624,21,3,3,0,Morning,Afternoon,530
+2508,Jet Airways,Kolkata,Banglore,1,124,18,5,5,1,Evening,Morning,1075
+2509,Air India,Delhi,Cochin,2,15,9,6,6,1,Night,Evening,1275
+2510,Jet Airways,Banglore,Delhi,1,107,15,3,4,0,Morning,Evening,685
+2511,Air India,Kolkata,Banglore,2,10,12,5,6,1,Afternoon,Evening,1660
+2512,Vistara,Banglore,Delhi,0,389,18,4,3,0,Morning,Morning,160
+2513,Jet Airways,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,610
+2514,IndiGo,Banglore,Delhi,0,389,15,6,5,1,Night,Night,175
+2515,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Night,560
+2516,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Morning,Night,840
+2517,IndiGo,Kolkata,Banglore,1,27,6,6,3,0,Afternoon,Evening,290
+2518,IndiGo,Delhi,Cochin,1,44,3,6,0,0,Morning,Afternoon,315
+2519,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Afternoon,Morning,1055
+2520,Vistara,Delhi,Cochin,0,49,18,3,0,0,Morning,Morning,190
+2521,Jet Airways,Delhi,Cochin,1,624,6,6,3,0,Morning,Night,1105
+2522,SpiceJet,Kolkata,Banglore,0,172,9,4,1,0,Evening,Evening,150
+2523,Jet Airways,Delhi,Cochin,2,74,21,3,3,0,Morning,Night,1125
+2524,IndiGo,Delhi,Cochin,1,624,3,3,6,1,Night,Night,975
+2525,IndiGo,Delhi,Cochin,1,85,3,6,0,0,Afternoon,Night,380
+2526,IndiGo,Mumbai,Hyderabad,0,164,24,5,4,0,Evening,Night,95
+2527,Jet Airways,Delhi,Cochin,2,74,27,5,0,0,Morning,Afternoon,1615
+2528,SpiceJet,Kolkata,Banglore,0,172,21,4,6,1,Morning,Morning,155
+2529,Air India,Delhi,Cochin,2,12,9,3,5,1,Night,Evening,1305
+2530,Air India,Kolkata,Banglore,2,11,6,6,3,0,Afternoon,Morning,1195
+2531,Air India,Delhi,Cochin,1,44,6,3,2,0,Morning,Morning,1420
+2532,Air India,Mumbai,Hyderabad,0,164,3,5,4,0,Evening,Evening,75
+2533,Jet Airways,Delhi,Cochin,1,624,1,6,5,1,Morning,Evening,540
+2534,IndiGo,Kolkata,Banglore,1,10,18,5,5,1,Morning,Afternoon,330
+2535,Air India,Banglore,Delhi,0,389,27,6,3,0,Night,Night,170
+2536,Air India,Delhi,Cochin,2,15,3,6,0,0,Night,Evening,1275
+2537,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,660
+2538,Air India,Kolkata,Banglore,1,253,1,5,2,0,Afternoon,Evening,1540
+2539,Air India,Chennai,Kolkata,0,75,18,6,1,0,Morning,Afternoon,135
+2540,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Morning,Evening,555
+2541,IndiGo,Delhi,Cochin,1,624,27,6,3,0,Morning,Night,705
+2542,IndiGo,Delhi,Cochin,1,85,27,6,3,0,Morning,Night,895
+2543,SpiceJet,Banglore,Delhi,0,389,9,4,1,0,Morning,Morning,160
+2544,SpiceJet,Chennai,Kolkata,0,75,1,5,2,0,Evening,Evening,140
+2545,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Evening,Evening,1485
+2546,IndiGo,Delhi,Cochin,0,49,21,3,3,0,Morning,Morning,195
+2547,Multiple carriers,Delhi,Cochin,1,85,27,6,3,0,Morning,Night,925
+2548,IndiGo,Chennai,Kolkata,0,75,9,6,6,1,Evening,Night,140
+2549,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Evening,300
+2550,Vistara,Banglore,Delhi,0,389,3,4,2,0,Evening,Night,165
+2551,IndiGo,Kolkata,Banglore,0,172,12,5,6,1,Morning,Afternoon,155
+2552,Jet Airways,Banglore,Delhi,0,389,3,4,2,0,Morning,Morning,180
+2553,Jet Airways,Delhi,Cochin,2,74,15,6,5,1,Morning,Evening,810
+2554,SpiceJet,Chennai,Kolkata,0,75,3,6,0,0,Morning,Afternoon,135
+2555,Air India,Mumbai,Hyderabad,0,164,21,6,4,0,Evening,Evening,75
+2556,Air India,Kolkata,Banglore,2,11,18,5,5,1,Afternoon,Morning,1195
+2557,Air Asia,Banglore,Delhi,0,389,1,4,0,0,Night,Night,170
+2558,Jet Airways,Banglore,Delhi,1,107,21,3,3,0,Night,Morning,780
+2559,SpiceJet,Mumbai,Hyderabad,0,164,24,5,4,0,Afternoon,Afternoon,90
+2560,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Afternoon,Night,750
+2561,Jet Airways,Kolkata,Banglore,1,253,24,5,4,0,Afternoon,Afternoon,1315
+2562,Jet Airways,Delhi,Cochin,1,624,27,6,3,0,Afternoon,Afternoon,1235
+2563,Air India,Kolkata,Banglore,1,5,24,3,6,1,Morning,Night,910
+2564,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Evening,Night,440
+2565,Jet Airways,Banglore,Delhi,0,389,21,4,6,1,Evening,Night,180
+2566,IndiGo,Banglore,Delhi,0,389,24,4,2,0,Evening,Night,170
+2567,Air India,Mumbai,Hyderabad,0,164,15,5,2,0,Night,Night,80
+2568,Jet Airways,Delhi,Cochin,2,74,27,5,0,0,Morning,Evening,560
+2569,Jet Airways,Banglore,Delhi,1,107,6,3,2,0,Morning,Morning,300
+2570,Air India,Mumbai,Hyderabad,0,164,12,5,6,1,Night,Night,80
+2571,Jet Airways,Kolkata,Banglore,1,124,1,4,0,0,Morning,Night,840
+2572,Air Asia,Kolkata,Banglore,0,172,27,3,2,0,Morning,Afternoon,155
+2573,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,645
+2574,Multiple carriers,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,835
+2575,Jet Airways,Delhi,Cochin,1,624,3,6,0,0,Night,Evening,1210
+2576,Air Asia,Kolkata,Banglore,0,172,24,5,4,0,Evening,Night,150
+2577,Multiple carriers,Delhi,Cochin,1,624,21,3,3,0,Morning,Evening,680
+2578,Air India,Banglore,Delhi,2,5,3,3,6,1,Morning,Night,905
+2579,SpiceJet,Delhi,Cochin,1,44,9,5,3,0,Morning,Morning,315
+2580,IndiGo,Kolkata,Banglore,0,172,6,6,3,0,Afternoon,Evening,155
+2581,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Afternoon,Morning,730
+2582,Air India,Kolkata,Banglore,2,7,12,5,6,1,Afternoon,Morning,765
+2583,IndiGo,Banglore,Delhi,0,389,24,3,6,1,Evening,Night,170
+2584,IndiGo,Kolkata,Banglore,0,172,18,4,3,0,Night,Night,155
+2585,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Evening,Night,555
+2586,Jet Airways,Delhi,Cochin,2,9,1,6,5,1,Morning,Afternoon,425
+2587,Multiple carriers,Delhi,Cochin,1,624,27,3,2,0,Morning,Night,835
+2588,Air India,Delhi,Cochin,0,49,27,3,2,0,Afternoon,Evening,180
+2589,Air India,Kolkata,Banglore,2,12,9,6,6,1,Morning,Night,920
+2590,IndiGo,Kolkata,Banglore,0,172,1,5,2,0,Morning,Afternoon,165
+2591,IndiGo,Delhi,Cochin,1,85,24,6,0,0,Morning,Afternoon,455
+2592,Air India,Banglore,Delhi,1,5,6,3,2,0,Morning,Afternoon,1510
+2593,IndiGo,Delhi,Cochin,1,624,6,3,2,0,Morning,Night,615
+2594,Jet Airways,Kolkata,Banglore,1,253,6,6,3,0,Evening,Morning,800
+2595,SpiceJet,Kolkata,Banglore,0,172,12,4,4,0,Night,Night,140
+2596,Vistara,Banglore,Delhi,0,389,24,3,6,1,Night,Night,175
+2597,GoAir,Banglore,Delhi,0,389,9,5,3,0,Morning,Morning,175
+2598,Jet Airways,Delhi,Cochin,1,624,9,6,6,1,Morning,Evening,660
+2599,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Night,735
+2600,Air India,Delhi,Cochin,1,44,1,6,5,1,Morning,Morning,1640
+2601,IndiGo,Banglore,Delhi,0,389,9,3,5,1,Evening,Night,175
+2602,Jet Airways,Delhi,Cochin,2,74,27,5,0,0,Morning,Evening,810
+2603,Multiple carriers,Delhi,Cochin,1,624,9,6,6,1,Evening,Night,450
+2604,Multiple carriers,Delhi,Cochin,1,624,12,6,2,0,Morning,Evening,600
+2605,IndiGo,Delhi,Cochin,1,85,9,5,3,0,Morning,Afternoon,515
+2606,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Night,Evening,1005
+2607,Multiple carriers,Delhi,Cochin,1,624,3,3,6,1,Morning,Night,780
+2608,Vistara,Banglore,Delhi,0,389,24,5,4,0,Evening,Evening,155
+2609,SpiceJet,Mumbai,Hyderabad,0,164,15,5,2,0,Morning,Morning,90
+2610,SpiceJet,Chennai,Kolkata,0,75,9,5,3,0,Evening,Evening,140
+2611,Multiple carriers,Delhi,Cochin,1,624,1,6,5,1,Morning,Night,830
+2612,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Morning,Evening,650
+2613,SpiceJet,Kolkata,Banglore,0,172,6,5,0,0,Night,Night,140
+2614,IndiGo,Banglore,Delhi,0,389,6,6,3,0,Morning,Afternoon,170
+2615,Air India,Banglore,Delhi,2,4,1,3,4,0,Morning,Evening,770
+2616,Vistara,Chennai,Kolkata,0,75,15,5,2,0,Morning,Morning,135
+2617,IndiGo,Delhi,Cochin,0,49,6,3,2,0,Night,Night,195
+2618,Jet Airways,Kolkata,Banglore,1,124,21,5,1,0,Evening,Night,1745
+2619,Vistara,Kolkata,Banglore,1,124,6,6,3,0,Morning,Evening,700
+2620,Jet Airways,Kolkata,Banglore,1,253,21,5,1,0,Afternoon,Evening,400
+2621,Jet Airways,Banglore,Delhi,0,389,12,4,4,0,Morning,Morning,165
+2622,Jet Airways,Banglore,Delhi,0,389,3,5,4,0,Evening,Evening,180
+2623,Air India,Delhi,Cochin,1,624,9,4,1,0,Night,Evening,1215
+2624,SpiceJet,Banglore,Delhi,0,389,27,6,3,0,Night,Night,175
+2625,Air India,Banglore,Delhi,0,389,1,5,2,0,Evening,Evening,165
+2626,Air India,Banglore,Delhi,0,389,1,6,5,1,Morning,Morning,165
+2627,Air India,Delhi,Cochin,1,55,6,3,2,0,Morning,Morning,1350
+2628,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Evening,Night,450
+2629,IndiGo,Kolkata,Banglore,0,172,12,6,2,0,Night,Night,160
+2630,IndiGo,Delhi,Cochin,1,624,21,5,1,0,Night,Night,965
+2631,Multiple carriers,Delhi,Cochin,1,624,9,3,5,1,Evening,Night,395
+2632,Jet Airways,Mumbai,Hyderabad,0,164,9,3,5,1,Night,Night,90
+2633,SpiceJet,Kolkata,Banglore,0,172,12,3,1,0,Evening,Evening,150
+2634,IndiGo,Kolkata,Banglore,1,2,6,6,3,0,Evening,Night,325
+2635,Multiple carriers,Delhi,Cochin,1,624,27,6,3,0,Morning,Evening,440
+2636,Jet Airways,Banglore,Delhi,1,107,1,3,4,0,Morning,Night,800
+2637,Jet Airways,Banglore,Delhi,0,389,18,5,5,1,Evening,Night,185
+2638,Multiple carriers,Delhi,Cochin,1,85,15,5,2,0,Morning,Night,765
+2639,Air India,Kolkata,Banglore,2,11,1,4,0,0,Afternoon,Morning,1195
+2640,IndiGo,Banglore,Delhi,0,389,24,5,4,0,Morning,Afternoon,170
+2641,Multiple carriers,Delhi,Cochin,1,624,9,5,3,0,Afternoon,Night,690
+2642,Jet Airways,Delhi,Cochin,1,624,21,5,1,0,Night,Afternoon,825
+2643,Air India,Delhi,Cochin,2,17,6,6,3,0,Morning,Morning,1420
+2644,Multiple carriers,Delhi,Cochin,1,624,3,6,0,0,Morning,Evening,690
+2645,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Morning,560
+2646,Jet Airways,Delhi,Cochin,2,41,18,5,5,1,Night,Night,1760
+2647,Air India,Kolkata,Banglore,2,10,1,5,2,0,Afternoon,Morning,970
+2648,IndiGo,Delhi,Cochin,0,49,1,4,0,0,Night,Night,195
+2649,SpiceJet,Banglore,Delhi,0,389,6,5,0,0,Morning,Morning,160
+2650,Air India,Kolkata,Banglore,2,11,9,5,3,0,Morning,Morning,1625
+2651,Jet Airways,Kolkata,Banglore,1,124,6,6,3,0,Morning,Night,750
+2652,Jet Airways,Banglore,Delhi,1,107,12,3,1,0,Night,Afternoon,860
+2653,Jet Airways,Kolkata,Banglore,1,253,18,5,5,1,Afternoon,Night,365
+2654,Air India,Delhi,Cochin,1,624,3,3,6,1,Morning,Morning,1480
+2655,Multiple carriers,Delhi,Cochin,1,624,24,6,0,0,Morning,Night,560
+2656,Jet Airways,Kolkata,Banglore,1,253,12,5,6,1,Night,Morning,730
+2657,Multiple carriers,Delhi,Cochin,1,624,6,6,3,0,Night,Evening,860
+2658,Jet Airways,Delhi,Cochin,1,624,15,6,5,1,Night,Evening,1270
+2659,Jet Airways,Delhi,Cochin,2,9,15,6,5,1,Morning,Afternoon,425
+2660,Air India,Mumbai,Hyderabad,2,1,12,3,1,0,Afternoon,Afternoon,5
+2661,Jet Airways,Delhi,Cochin,2,41,27,3,2,0,Evening,Night,1995
+2662,Air India,Mumbai,Hyderabad,0,164,21,5,1,0,Afternoon,Afternoon,90
+2663,GoAir,Kolkata,Banglore,1,253,12,5,6,1,Night,Morning,495
+2664,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Afternoon,Night,615
+2665,SpiceJet,Mumbai,Hyderabad,0,164,21,6,4,0,Night,Night,90
+2666,Air India,Kolkata,Banglore,1,124,6,6,3,0,Evening,Evening,1435
+2667,IndiGo,Kolkata,Banglore,0,172,27,3,2,0,Afternoon,Afternoon,155
+2668,Jet Airways,Delhi,Cochin,1,624,6,3,2,0,Night,Night,395
+2669,Air India,Delhi,Cochin,1,624,6,3,2,0,Night,Evening,915
+2670,Multiple carriers,Delhi,Cochin,1,624,15,6,5,1,Night,Evening,860
